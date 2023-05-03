@@ -89,16 +89,16 @@ const Navbar = () => {
               })} */}
                <li>
                 <Link
-                  href={"/category/finance"}
+                  href={"/category/python"}
                   className="navbar-link hover-1"
                   data-nav-toggler
                   ref={navTogglers}
                   onClick={toggleNav}
                 >
-                  Finance
+                  Python
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link
                   href={"/category/health"}
                   className="navbar-link hover-1"
@@ -108,8 +108,8 @@ const Navbar = () => {
                 >
                   Health
                 </Link>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <Link
                   href={"/category/career"}
                   className="navbar-link hover-1"
@@ -119,8 +119,8 @@ const Navbar = () => {
                 >
                   Career
                 </Link>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <Link
                   href={"/category/technology"}
                   className="navbar-link hover-1"
@@ -130,8 +130,8 @@ const Navbar = () => {
                 >
                   Technology
                 </Link>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <Link
                   href={"/category/lifestyle"}
                   className="navbar-link hover-1"
@@ -141,7 +141,7 @@ const Navbar = () => {
                 >
                   Lifestyle
                 </Link>
-              </li>
+              </li> */}
             </ul>
 
             {/* <div className="navbar-bottom">
@@ -201,7 +201,7 @@ const Navbar = () => {
           </div> */}
 
             <p className="copyright-text" style={{marginTop:20}}>
-              Copyright 2022 © Ace health wealth -Developed by Vishwesh Singh
+              Copyright 2022 © codewithgolu -Developed by Vishwesh Singh
             </p>
           </nav>
 

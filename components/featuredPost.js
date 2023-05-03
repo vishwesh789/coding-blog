@@ -10,18 +10,22 @@ const FeaturedPost = (props) => {
   //   !router.query.category || router.query.category == ("articles" || undefined)
   //     ? props.data.articles.item
   //     : props.data.articlesCatWise.item;
-  
+  console.log("categoryyyyyyyyyyyy",router.query.category)
+
   let articles;
   let parentPath
       switch (router.query.category) {
-       
           case "technology":
-            articles = props.data.technologies.item;
-            parentPath =props.data.technologies.parentPath
+            articles = props.data.technologies?.item;
+            parentPath =props.data.technologies?.parentPath
+          break;  
+          case "python":
+            articles = props.data.python?.item;
+            parentPath =props.data.python?.parentPath
           break;  
           default:
-          articles = props.data.technologies.item
-          parentPath =props.data.technologies.parentPath
+            articles = props.data.python?.item;
+            parentPath =props.data.python?.parentPath
       
       }
   
@@ -130,7 +134,7 @@ const FeaturedPost = (props) => {
           })}
         </ul>
 
-        <Link href={`/category/health`} className="btn btn-secondary">
+        <Link href={`/category/python`} className="btn btn-secondary">
           <span className="span">Show More Posts</span>
 
           <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>

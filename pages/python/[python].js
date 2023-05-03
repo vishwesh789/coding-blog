@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import Layout from "../../components/layout";
 import qs from "qs";
-import { fetchCategories, fetchTechnologies } from "../../http";
+import { fetchCategories, fetchPython, } from "../../http";
 import Head from "next/head";
 import {
   FacebookShareButton,
@@ -23,14 +23,14 @@ import {
 import PopularTags from "../../components/popularTags";
 import RecentPosts from "../../components/recentPosts";
 import { useEffect, useState } from "react";
-import { techJson } from "../../data-json/technology";
 
 import rehypePrism from "rehype-prism-plus";
 import rehypeCodeTitles from "rehype-code-titles";
 import { MDXRemote } from "next-mdx-remote";
 import { serialize } from "next-mdx-remote/serialize";
+import { pythonJson } from "../../data-json/python";
 
-const Technologies = (props) => {
+const Python = (props) => {
   // console.log("propsssssssss in technology", props.technology[0].attributes);
   const {
     content,
@@ -60,7 +60,7 @@ const Technologies = (props) => {
   const generateRandomRelatedPost = () => {
     const selectedItems = [];
     while (selectedItems.length < 5) {
-      const randomItem = getRandomItem(techJson);
+      const randomItem = getRandomItem(pythonJson);
       if (!selectedItems.includes(randomItem)) {
         selectedItems.push(randomItem);
       }
@@ -72,7 +72,7 @@ const Technologies = (props) => {
   const generatePopularRelatedPost = () => {
     const selectedItems = [];
     while (selectedItems.length < 5) {
-      const randomItem = getRandomItem(techJson);
+      const randomItem = getRandomItem(pythonJson);
       if (!selectedItems.includes(randomItem)) {
         selectedItems.push(randomItem);
       }
@@ -92,7 +92,7 @@ const Technologies = (props) => {
 
         <meta
           property="og:url"
-          content={`https://www.codewithgolu.com/tecnologies/${slug}/`}
+          content={`https://www.codewithgolu.com/python/${slug}/`}
         />
         <meta property="og:type" content="website" />
         <meta property="og:title" content={title} />
@@ -106,7 +106,7 @@ const Technologies = (props) => {
         <meta property="twitter:domain" content="codewithgolu.com" />
         <meta
           property="twitter:url"
-          content={`https://www.codewithgolu.com/tecnologies/${slug}/`}
+          content={`https://www.codewithgolu.com/python/${slug}/`}
         />
         <meta name="twitter:title" content={title} />
         <meta
@@ -133,37 +133,37 @@ const Technologies = (props) => {
 
           <div style={{ flexDirection: "row", display: "flex", gap: 5 }}>
             <FacebookShareButton
-              url={`https://www.codewithgolu.com/tecnologies/${slug}/`}
+              url={`https://www.codewithgolu.com/python/${slug}/`}
             >
               <FacebookIcon size={32} round />
             </FacebookShareButton>
             <PinterestShareButton
-              url={`https://www.codewithgolu.com/tecnologies/${slug}/`}
+              url={`https://www.codewithgolu.com/python/${slug}/`}
             >
               <PinterestIcon size={32} round />
             </PinterestShareButton>
             <RedditShareButton
-              url={`https://www.codewithgolu.com/tecnologies/${slug}/`}
+              url={`https://www.codewithgolu.com/python/${slug}/`}
             >
               <RedditIcon size={32} round />
             </RedditShareButton>
             <WhatsappShareButton
-              url={`https://www.codewithgolu.com/tecnologies/${slug}/`}
+              url={`https://www.codewithgolu.com/python/${slug}/`}
             >
               <WhatsappIcon size={32} round />
             </WhatsappShareButton>
             <LinkedinShareButton
-              url={`https://www.codewithgolu.com/tecnologies/${slug}/`}
+              url={`https://www.codewithgolu.com/python/${slug}/`}
             >
               <LinkedinIcon size={32} round />
             </LinkedinShareButton>
             <TelegramShareButton
-              url={`https://www.codewithgolu.com/tecnologies/${slug}/`}
+              url={`https://www.codewithgolu.com/python/${slug}/`}
             >
               <TelegramIcon size={32} round />
             </TelegramShareButton>
             <TwitterShareButton
-              url={`https://www.codewithgolu.com/tecnologies/${slug}/`}
+              url={`https://www.codewithgolu.com/python/${slug}/`}
             >
               <TwitterIcon size={32} round />
             </TwitterShareButton>
@@ -238,7 +238,7 @@ const Technologies = (props) => {
       <RecentPosts
         randomPosts={randomPosts}
         popularPosts={popularPosts}
-        cat={"technologies"}
+        cat={"python"}
       />
       <PopularTags />
     </Layout>
@@ -254,14 +254,14 @@ export async function getStaticPaths() {
       encodeValuesOnly: true, // prettify URL
     }
   );
-  const slugs = await fetchTechnologies(query);
+  const slugs = await fetchPython(query);
   // console.log("slugsssssss",slugs.data)
   const pathArray = [];
 
   slugs.data.data.forEach(myFunction);
 
   function myFunction(value, index, array) {
-    pathArray.push({ params: { technology: value.attributes.slug } });
+    pathArray.push({ params: { python: value.attributes.slug } });
   }
 
   return {
@@ -277,7 +277,7 @@ export async function getStaticProps(context) {
   // const catQuery = qs.stringify(
   //   {
   //     populate: {
-  //       tecnologies: true,
+  //       python: true,
   //       articles: true,
   //       image: true,
   //     },
@@ -289,7 +289,7 @@ export async function getStaticProps(context) {
 
   // const categories = await fetchCategories(catQuery);
 
-  const technologyQueryWithFilter = qs.stringify(
+  const pythonQueryWithFilter = qs.stringify(
     {
       populate: {
         category: true,
@@ -298,7 +298,7 @@ export async function getStaticProps(context) {
         body: true,
       },
       filters: {
-        slug: { $eq: context.params.technology },
+        slug: { $eq: context.params.python },
       },
     },
     {
@@ -306,17 +306,17 @@ export async function getStaticProps(context) {
     }
   );
 
-  const technology = await fetchTechnologies(technologyQueryWithFilter);
+  const python = await fetchPython(pythonQueryWithFilter);
 
   const content = await serialize(
-    technology.data.data[0].attributes.body.content,
+    python.data.data[0].attributes.body.content,
     {
       mdxOptions: {
         rehypePlugins: [rehypePrism, rehypeCodeTitles], // add rehype-prism-plus plugin here
       },
     }
   );
-  const tech = technology.data.data[0].attributes;
+  const tech = python.data.data[0].attributes;
 
   // console.log("technology ssrrrrrrrrrr", context);
 
@@ -337,4 +337,4 @@ export async function getStaticProps(context) {
   };
 }
 
-export default Technologies;
+export default Python;

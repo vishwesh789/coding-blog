@@ -3,7 +3,6 @@ import Link from "next/link";
 
 const RecentPosts = (props) => {
   const { randomPosts, popularPosts, cat } = props;
-  console.log("propsssssssss in technology", randomPosts);
 
   return (
     <section
@@ -32,7 +31,7 @@ const RecentPosts = (props) => {
                         width="271"
                         height="258"
                         loading="lazy"
-                        alt="Helpful Tips for Working from Home as a Freelancer"
+                        alt= {post.title}
                         className="img-cover"
                       />
                     </figure>
@@ -409,7 +408,7 @@ const RecentPosts = (props) => {
                           width="64"
                           height="64"
                           loading="lazy"
-                          alt="Creating is a privilege but it’s also a gift"
+                          alt={post.title}
                           className="img-cover"
                         />
                       </figure>

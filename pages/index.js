@@ -1,8 +1,6 @@
 import Head from "next/head";
-import Topics from "../components/topics";
 import FeaturedPost from "../components/featuredPost";
-import PopularTags from "../components/popularTags";
-import { fetchArticles, fetchCarrers, fetchCategories, fetchTechnologies } from "../http";
+import {fetchPython} from "../http";
 import Layout from "../components/layout";
 import qs from "qs";
 
@@ -10,7 +8,7 @@ export default function Home(props) {
   return (
     <>
       <Head>
-        <title>codewithgolu - Health and Wealth Blog Website</title>
+        <title>codewithgolu - Coding related Blogs</title>
         <meta
           name="description"
           content="Our Vision is to share our knowledge related to Coding and Careers related to it. Let us embark together on this quest for the truth... and have some fun along the way."
@@ -57,7 +55,9 @@ export async function getStaticProps({ query }) {
 
   
 
-  const technologyQuery = qs.stringify(
+  
+
+  const pythonQuery = qs.stringify(
     {
       populate: {
         category: true,
@@ -70,17 +70,17 @@ export async function getStaticProps({ query }) {
     }
   );
 
-  const technologies = await fetchTechnologies(technologyQuery);
+  const python = await fetchPython(pythonQuery);
 
 
   // Pass data to the page via props
   return {
     props: {
       // categories: categories.data.data,
-      technologies: {
-        item: technologies.data.data,
-        pagination: technologies.data.meta.pagination,
-        parentPath:"technologies"
+      python: {
+        item: python.data.data,
+        pagination: python.data.meta.pagination,
+        parentPath: "python",
       },
     },
   };

@@ -1,4 +1,4 @@
-export const techJson = [
+export const pythonJson =[
 	{
 		"id": 1,
 		"title": "How to Build a RESTful API with Flask in 5 Easy Steps",

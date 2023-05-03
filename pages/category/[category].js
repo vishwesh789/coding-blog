@@ -1,11 +1,8 @@
 import FeaturedPost from "../../components/featuredPost";
 import qs from "qs";
 import {
-  fetchArticles,
-  fetchCarrers,
   fetchCategories,
-  fetchFinances,
-  fetchLifestyles,
+  fetchPython,
   fetchTechnologies,
 } from "../../http";
 import Layout from "../../components/layout";
@@ -81,6 +78,22 @@ export async function getStaticProps(context) {
 
   const technologies = await fetchTechnologies(technologyQuery);
 
+  const pythonQuery = qs.stringify(
+    {
+      populate: {
+        category: true,
+        image: true,
+        author: true,
+      },
+    },
+    {
+      encodeValuesOnly: true,
+    }
+  );
+
+  const python = await fetchPython(pythonQuery);
+
+
   
 
   
@@ -96,6 +109,11 @@ export async function getStaticProps(context) {
         item: technologies.data.data,
         pagination: technologies.data.meta.pagination,
         parentPath: "technologies",
+      },
+      python: {
+        item: python.data.data,
+        pagination: python.data.meta.pagination,
+        parentPath: "python",
       },
       
     },
