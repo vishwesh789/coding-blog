@@ -187,9 +187,11 @@ export const pythonJson =[
 		"slug": "how-to-build-a-machine-learning-pipeline-with-scikit-learn-and-pandas",
 		"metaDesc": "Machine learning is a rapidly growing field that involves the use of algorithms to learn patterns from data. One common task in machine learning is the creation of a pipeline that takes raw data, preprocesses it, trains a model, and evaluates the model's performance. In this article, we will explore how to build a machine learning pipeline using two popular Python libraries: Scikit-learn and Pandas.",
 		"img": "https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-		"tags": "Machine Learning",
+		"tags": [
+			"Machine Learning"
+		],
 		"createdAt": "2023-05-04T11:38:34.531Z",
-		"updatedAt": "2023-05-04T17:17:52.219Z",
+		"updatedAt": "2023-05-04T18:30:12.142Z",
 		"publishedAt": "2023-05-04T17:17:52.217Z",
 		"readTime": 4
 	},
@@ -199,9 +201,11 @@ export const pythonJson =[
 		"slug": "exploratory-data-analysis-with-python-tips-and-tricks",
 		"metaDesc": "If you're just getting started with data analysis using Python, you may be wondering where to begin. One of the most important steps in any data analysis project is exploratory data analysis (EDA), which involves examining and understanding the data before diving into more complex analysis.\n\nIn this article, we'll provide some tips and tricks for conducting EDA with Python, using a variety of tools and techniques that are accessible to beginners.",
 		"img": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-		"tags": {},
+		"tags": [
+			"Exploratory Data Analysis with Python"
+		],
 		"createdAt": "2023-05-04T11:47:27.569Z",
-		"updatedAt": "2023-05-04T13:50:07.486Z",
+		"updatedAt": "2023-05-04T18:28:38.043Z",
 		"publishedAt": "2023-05-04T13:50:07.484Z",
 		"readTime": 5
 	},
@@ -274,5 +278,75 @@ export const pythonJson =[
 		"updatedAt": "2023-05-04T13:26:41.563Z",
 		"publishedAt": "2023-05-04T13:26:41.561Z",
 		"readTime": 5
+	},
+	{
+		"id": 21,
+		"title": "How to Build a Custom GUI for Your Python Application",
+		"slug": "how-to-build-a-custom-gui-for-your-python-application",
+		"metaDesc": "Graphical User Interfaces (GUIs) are a critical component of many modern applications. GUIs allow users to interact with applications in a visual way, making them more intuitive and user-friendly. Python is a versatile programming language that can be used for a variety of tasks, including building custom GUIs. In this tutorial, we'll go over the basics of building a custom GUI for your Python application.",
+		"img": "https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Custom GUI in Python"
+		],
+		"createdAt": "2023-05-04T18:52:25.246Z",
+		"updatedAt": "2023-05-04T18:52:41.077Z",
+		"publishedAt": "2023-05-04T18:52:27.120Z",
+		"readTime": 5
+	},
+	{
+		"id": 22,
+		"title": "PyQt vs PySide: Which GUI Framework Should You Choose?",
+		"slug": "py-qt-vs-py-side-which-gui-framework-should-you-choose",
+		"metaDesc": "If you're new to the world of GUI (Graphical User Interface) programming in Python, you might be wondering which GUI framework to use: PyQt or PySide. Both frameworks are widely used and have a lot in common, but there are some key differences between them. In this article, we'll compare PyQt and PySide and help you decide which one to use for your project.\n\n",
+		"img": "https://images.pexels.com/photos/1181275/pexels-photo-1181275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"PyQt vs PySide"
+		],
+		"createdAt": "2023-05-04T18:57:49.486Z",
+		"updatedAt": "2023-05-04T18:57:50.821Z",
+		"publishedAt": "2023-05-04T18:57:50.818Z",
+		"readTime": 5
+	},
+	{
+		"id": 23,
+		"title": "Building Accessible User Interfaces with Python: Best Practices and Tools",
+		"slug": "building-accessible-user-interfaces-with-python-best-practices-and-tools",
+		"metaDesc": "Building accessible user interfaces (UIs) is an important consideration for any software development project. Accessibility is essential for ensuring that all users, including those with disabilities, can use and interact with your application. Python, a popular and versatile programming language, offers many tools and best practices to help you build accessible UIs.",
+		"img": "https://images.pexels.com/photos/1181274/pexels-photo-1181274.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			" User Interfaces with Python"
+		],
+		"createdAt": "2023-05-04T19:01:57.577Z",
+		"updatedAt": "2023-05-04T19:01:59.749Z",
+		"publishedAt": "2023-05-04T19:01:59.746Z",
+		"readTime": 5
+	},
+	{
+		"id": 24,
+		"title": "Integrating Multimedia Elements in Your Python GUI Application",
+		"slug": "integrating-multimedia-elements-in-your-python-gui-application",
+		"metaDesc": "As technology advances, users demand more visually appealing and interactive graphical user interfaces (GUIs) in their applications. Integrating multimedia elements such as images, videos, and audio can enhance the user experience and make the application more engaging. In this article, we will explore how to add multimedia elements to your Python GUI application.",
+		"img": "https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"python"
+		],
+		"createdAt": "2023-05-04T19:07:54.232Z",
+		"updatedAt": "2023-05-04T19:08:07.493Z",
+		"publishedAt": "2023-05-04T19:07:55.651Z",
+		"readTime": 4
+	},
+	{
+		"id": 25,
+		"title": "Deploying Python GUI Apps with PyInstaller: A Step-by-Step Guide",
+		"slug": "deploying-python-gui-apps-with-py-installer-a-step-by-step-guide",
+		"metaDesc": "In this guide, we will walk you through the process of deploying a Python GUI app with PyInstaller. We assume that you have already built your GUI application using a framework like Tkinter, PyQt, or wxPython, and that you have a working knowledge of Python.",
+		"img": "https://images.pexels.com/photos/3861951/pexels-photo-3861951.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Deploying Python GUI Apps"
+		],
+		"createdAt": "2023-05-04T19:14:14.275Z",
+		"updatedAt": "2023-05-04T19:14:15.611Z",
+		"publishedAt": "2023-05-04T19:14:15.609Z",
+		"readTime": 4
 	}
 ]
