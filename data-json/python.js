@@ -135,7 +135,7 @@ export const pythonJson =[
 			"Flask-Babel"
 		],
 		"createdAt": "2023-05-04T11:12:51.562Z",
-		"updatedAt": "2023-05-04T17:47:12.712Z",
+		"updatedAt": "2023-05-04T21:45:02.724Z",
 		"publishedAt": "2023-05-04T17:47:12.711Z",
 		"readTime": 3
 	},
@@ -348,5 +348,131 @@ export const pythonJson =[
 		"updatedAt": "2023-05-04T19:14:15.611Z",
 		"publishedAt": "2023-05-04T19:14:15.609Z",
 		"readTime": 4
+	},
+	{
+		"id": 26,
+		"title": "Logistic Regression with Scikit-learn: A Beginner's Guide",
+		"slug": "logistic-regression-with-scikit-learn-a-beginner-s-guide",
+		"metaDesc": "Logistic Regression is a statistical method that is used for modeling the relationship between a categorical dependent variable and one or more independent variables. It is commonly used in various fields such as medical research, social sciences, and economics to analyze and predict the outcome of a binary event, i.e., the event that can only have two outcomes.\n\nIn this article, we will discuss how to perform logistic regression using scikit-learn, a popular Python library for machine learning.",
+		"img": "https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg",
+		"tags": [
+			"Logistic Regression with Scikit-learn"
+		],
+		"createdAt": "2023-05-04T22:01:41.684Z",
+		"updatedAt": "2023-05-04T22:01:42.983Z",
+		"publishedAt": "2023-05-04T22:01:42.981Z",
+		"readTime": 5
+	},
+	{
+		"id": 27,
+		"title": "Bayesian Optimization for Hyperparameter Tuning in Machine Learning",
+		"slug": "bayesian-optimization-for-hyperparameter-tuning-in-machine-learning",
+		"metaDesc": "Machine learning models often involve several parameters that need to be tuned to achieve optimal performance. These parameters are known as hyperparameters, and they can significantly impact the performance of a model.\n\nHyperparameter tuning is an essential step in machine learning. It involves finding the optimal values of hyperparameters to improve the accuracy and generalization of a model. There are several approaches to hyperparameter tuning, including manual tuning, grid search, random search, and Bayesian optimization. In this article, we'll discuss Bayesian optimization, its advantages, and how it can be used for hyperparameter tuning.",
+		"img": "https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg",
+		"tags": [
+			"machine learning"
+		],
+		"createdAt": "2023-05-04T22:07:35.475Z",
+		"updatedAt": "2023-05-04T22:07:36.962Z",
+		"publishedAt": "2023-05-04T22:07:36.959Z",
+		"readTime": 5
+	},
+	{
+		"id": 28,
+		"title": "Time Series Forecasting with ARIMA Models: A Comprehensive Guide",
+		"slug": "time-series-forecasting-with-arima-models-a-comprehensive-guide",
+		"metaDesc": "Time series forecasting is an important area of data science and machine learning that deals with predicting future values based on historical data. One of the most commonly used models for time series forecasting is the ARIMA (AutoRegressive Integrated Moving Average) model. In this guide, we will explore ARIMA models and how they can be used for time series forecasting.\n\n",
+		"img": "https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Time Series Forecasting with ARIMA Models"
+		],
+		"createdAt": "2023-05-04T22:16:16.001Z",
+		"updatedAt": "2023-05-04T22:16:17.434Z",
+		"publishedAt": "2023-05-04T22:16:17.431Z",
+		"readTime": 6
+	},
+	{
+		"id": 29,
+		"title": "Transfer Learning for Image Classification with TensorFlow",
+		"slug": "transfer-learning-for-image-classification-with-tensor-flow",
+		"metaDesc": "In this article, we will introduce transfer learning for image classification with TensorFlow, a popular deep learning framework. We will cover the following topics:\n\nWhat is transfer learning and why is it useful?\nHow to use pre-trained models in TensorFlow\nFine-tuning a pre-trained model for a new task\nEvaluating and testing the transfer learning model\n",
+		"img": "https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Transfer Learning for Image Classification with TensorFlow"
+		],
+		"createdAt": "2023-05-04T22:24:14.203Z",
+		"updatedAt": "2023-05-04T22:24:15.708Z",
+		"publishedAt": "2023-05-04T22:24:15.705Z",
+		"readTime": 5
+	},
+	{
+		"id": 30,
+		"title": "Reinforcement Learning with OpenAI Gym: A Practical Guide",
+		"slug": "reinforcement-learning-with-open-ai-gym-a-practical-guide",
+		"metaDesc": "One of the most popular platforms for practicing reinforcement learning is OpenAI Gym. OpenAI Gym is an open-source toolkit that provides a collection of environments for testing and developing reinforcement learning algorithms. In this guide, we'll introduce you to the basics of reinforcement learning with OpenAI Gym, and show you how to get started with building your own reinforcement learning algorithms.",
+		"img": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg",
+		"tags": [
+			"Reinforcement Learning with OpenAI Gym"
+		],
+		"createdAt": "2023-05-04T22:31:18.732Z",
+		"updatedAt": "2023-05-04T22:31:20.083Z",
+		"publishedAt": "2023-05-04T22:31:20.078Z",
+		"readTime": 5
+	},
+	{
+		"id": 31,
+		"title": "Semi-Supervised Learning: How to Train Your Machine Learning Models with Less Labeled Data",
+		"slug": "semi-supervised-learning-how-to-train-your-machine-learning-models-with-less-labeled-data",
+		"metaDesc": "Semi-supervised learning is a type of machine learning that uses both labeled and unlabeled data to train models. This approach can be especially useful when there is limited labeled data available. In this article, we will explore the basics of semi-supervised learning, including how it works and its benefits.",
+		"img": "https://images.pexels.com/photos/256502/pexels-photo-256502.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Semi-Supervised Learning"
+		],
+		"createdAt": "2023-05-04T22:37:52.767Z",
+		"updatedAt": "2023-05-04T22:37:54.285Z",
+		"publishedAt": "2023-05-04T22:37:54.283Z",
+		"readTime": 5
+	},
+	{
+		"id": 32,
+		"title": "Model Explainability with SHAP Values: How to Interpret Your Machine Learning Models",
+		"slug": "model-explainability-with-shap-values-how-to-interpret-your-machine-learning-models",
+		"metaDesc": "The basic idea behind SHAP values is to use game theory to assign a fair share of the prediction to each feature in the dataset. Specifically, SHAP values are based on the Shapley value, which is a concept from cooperative game theory that is used to allocate the payoff from a game among the players based on their contribution to the game.\n\nIn the context of machine learning, the \"game\" is the prediction task, and the \"players\" are the features in the dataset. The SHAP values for a given prediction indicate how much each feature \"contributed\" to that prediction, relative to all the other features.",
+		"img": "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Model Explainability with SHAP Values"
+		],
+		"createdAt": "2023-05-04T22:44:15.204Z",
+		"updatedAt": "2023-05-04T22:44:16.432Z",
+		"publishedAt": "2023-05-04T22:44:16.430Z",
+		"readTime": 5
+	},
+	{
+		"id": 33,
+		"title": "Speech Recognition with Kaldi: A Comprehensive Guide",
+		"slug": "speech-recognition-with-kaldi-a-comprehensive-guide",
+		"metaDesc": "Speech recognition is the process of converting spoken words into text. It is an essential tool for many applications, including voice-controlled assistants, transcription services, and language learning platforms. Kaldi is an open-source toolkit for speech recognition that is widely used in research and industry. In this guide, we will cover the basics of speech recognition with Kaldi and provide a step-by-step guide to building a simple speech recognition system.",
+		"img": "https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Speech Recognition with Kaldi"
+		],
+		"createdAt": "2023-05-04T22:53:37.161Z",
+		"updatedAt": "2023-05-04T22:53:38.412Z",
+		"publishedAt": "2023-05-04T22:53:38.409Z",
+		"readTime": 5
+	},
+	{
+		"id": 34,
+		"title": "Sentiment Analysis with TextBlob: A Beginner's Guide",
+		"slug": "sentiment-analysis-with-text-blob-a-beginner-s-guide",
+		"metaDesc": "Sentiment analysis is the process of identifying and extracting the sentiment or opinion expressed in a piece of text. It has become increasingly important in fields such as marketing, customer service, and politics. In this article, we will explore how to perform sentiment analysis using TextBlob, a popular Python library.\n\n",
+		"img": "https://images.pexels.com/photos/136320/pexels-photo-136320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Sentiment Analysis with TextBlob"
+		],
+		"createdAt": "2023-05-04T23:04:14.524Z",
+		"updatedAt": "2023-05-04T23:04:16.828Z",
+		"publishedAt": "2023-05-04T23:04:16.826Z",
+		"readTime": 5
 	}
 ]
