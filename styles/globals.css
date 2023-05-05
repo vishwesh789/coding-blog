@@ -727,20 +727,22 @@ body.nav-active {
   color: #829356;
 }
 
-.content p:after
+.content p
  {
    content: "";
    display: block;
-   margin-top: 1em; /* change this value to adjust the height of the line break */
+   margin-top: 2em;
+   margin-bottom: 1em; /* change this value to adjust the height of the line break */
 }
 
 .content
 h1:before,
-h2:before
+h2:before,
+h3::before
  {
    content: "";
    display: block;
-   margin-top: 1em; /* change this value to adjust the height of the line break */
+   margin-top: 1em; 
 }
 
 
@@ -754,6 +756,8 @@ h2:before
 .content li{
   list-style: decimal;
   margin-left: 2em;
+  margin-top: 2em;
+   margin-bottom: 1em;
 }
 
 .content pre code {
