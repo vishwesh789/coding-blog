@@ -474,5 +474,467 @@ export const pythonJson =[
 		"updatedAt": "2023-05-04T23:04:16.828Z",
 		"publishedAt": "2023-05-04T23:04:16.826Z",
 		"readTime": 5
+	},
+	{
+		"id": 35,
+		"title": "Transformers for Natural Language Processing: An Overview",
+		"slug": "transformers-for-natural-language-processing-an-overview",
+		"metaDesc": "In recent years, natural language processing (NLP) has made significant strides in improving language understanding and processing capabilities. A key technology driving these advancements is the transformer architecture. In this article, we will provide an overview of transformers and their use in NLP.\n\n",
+		"img": "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"machine learning"
+		],
+		"createdAt": "2023-05-05T12:19:51.918Z",
+		"updatedAt": "2023-05-05T12:19:53.639Z",
+		"publishedAt": "2023-05-05T12:19:53.636Z",
+		"readTime": 4
+	},
+	{
+		"id": 36,
+		"title": "Object Detection with YOLOv5: A Step-by-Step Guide",
+		"slug": "object-detection-with-yol-ov5-a-step-by-step-guide",
+		"metaDesc": "Object detection is a fundamental task in computer vision, and it has numerous applications such as autonomous driving, video surveillance, and image search. With the recent advances in deep learning, object detection has become easier and more accurate than ever before. In this guide, we will introduce you to YOLOv5, one of the most popular object detection algorithms, and walk you through the steps of training your own object detection model.",
+		"img": "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg",
+		"tags": [
+			"python"
+		],
+		"createdAt": "2023-05-05T15:03:48.355Z",
+		"updatedAt": "2023-05-05T15:03:49.535Z",
+		"publishedAt": "2023-05-05T15:03:49.533Z",
+		"readTime": 5
+	},
+	{
+		"id": 37,
+		"title": "Generative Models with GANs: A Comprehensive Introduction",
+		"slug": "generative-models-with-ga-ns-a-comprehensive-introduction",
+		"metaDesc": "Generative models have become increasingly popular in recent years, with a wide range of applications in various fields such as computer vision, natural language processing, and speech recognition. Among the various types of generative models, Generative Adversarial Networks (GANs) have gained significant attention due to their ability to generate realistic images, videos, and audio.",
+		"img": "https://images.pexels.com/photos/92905/pexels-photo-92905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"python"
+		],
+		"createdAt": "2023-05-05T15:08:14.797Z",
+		"updatedAt": "2023-05-05T15:11:33.185Z",
+		"publishedAt": "2023-05-05T15:11:33.183Z",
+		"readTime": 5
+	},
+	{
+		"id": 38,
+		"title": "Reinforcement Learning in Autonomous Vehicles: A Practical Guide",
+		"slug": "reinforcement-learning-in-autonomous-vehicles-a-practical-guide",
+		"metaDesc": "Autonomous vehicles have gained immense popularity in recent years. They are being developed and tested by several companies around the world. The success of autonomous vehicles heavily relies on their ability to make decisions in complex and dynamic environments. Reinforcement learning is one of the approaches being used to train autonomous vehicles to make decisions.\n\nIn this article, we will introduce the basics of reinforcement learning and how it is used in autonomous vehicles. We will also provide a practical guide to get started with reinforcement learning in autonomous vehicles.\n\n",
+		"img": "https://images.pexels.com/photos/4078342/pexels-photo-4078342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"machine learning"
+		],
+		"createdAt": "2023-05-05T15:17:41.577Z",
+		"updatedAt": "2023-05-05T15:17:42.825Z",
+		"publishedAt": "2023-05-05T15:17:42.823Z",
+		"readTime": 4
+	},
+	{
+		"id": 39,
+		"title": "Neural Style Transfer with PyTorch: A Comprehensive Tutorial",
+		"slug": "neural-style-transfer-with-py-torch-a-comprehensive-tutorial",
+		"metaDesc": "Are you interested in creating your own digital artwork? Do you love the style of your favorite artists and want to replicate their techniques? Neural style transfer may be just the tool you need. In this tutorial, we will explore the basics of neural style transfer and demonstrate how to implement it using PyTorch, a popular deep learning framework.\n\n",
+		"img": "https://images.pexels.com/photos/4078342/pexels-photo-4078342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"PyTorch"
+		],
+		"createdAt": "2023-05-05T15:26:49.024Z",
+		"updatedAt": "2023-05-05T15:39:19.940Z",
+		"publishedAt": "2023-05-05T15:39:19.939Z",
+		"readTime": 5
+	},
+	{
+		"id": 40,
+		"title": "Isometric Game Development with Pygame: Tips and Tricks",
+		"slug": "isometric-game-development-with-pygame-tips-and-tricks",
+		"metaDesc": "Are you interested in developing isometric games with Pygame? This article will provide you with some tips and tricks to get you started.",
+		"img": "https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"isometric games with Pygame"
+		],
+		"createdAt": "2023-05-05T15:55:56.449Z",
+		"updatedAt": "2023-05-05T15:55:58.167Z",
+		"publishedAt": "2023-05-05T15:55:58.163Z",
+		"readTime": 5
+	},
+	{
+		"id": 41,
+		"title": "Procedural Generation of Game Content with Python: A Comprehensive Guide",
+		"slug": "procedural-generation-of-game-content-with-python-a-comprehensive-guide",
+		"metaDesc": "Procedural generation is a technique used in game development to create game content automatically, rather than having developers create it manually. This approach can be used to generate levels, terrain, characters, and other elements of a game world. Procedural generation has become increasingly popular in recent years, as it can save developers a lot of time and effort and can also create more dynamic and interesting game content. In this article, we will explore how to use Python to implement procedural generation techniques in game development.",
+		"img": "https://images.pexels.com/photos/5380651/pexels-photo-5380651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Procedural Generation of Game Content"
+		],
+		"createdAt": "2023-05-05T16:15:48.596Z",
+		"updatedAt": "2023-05-05T16:15:49.834Z",
+		"publishedAt": "2023-05-05T16:15:49.831Z",
+		"readTime": 8
+	},
+	{
+		"id": 42,
+		"title": "AI Decision-Making in Game Development with Python: Best Practices and Tools",
+		"slug": "ai-decision-making-in-game-development-with-python-best-practices-and-tools",
+		"metaDesc": "Artificial intelligence (AI) is becoming increasingly prevalent in game development, helping developers to create more intelligent and engaging games. With the help of AI, game developers can create games that are challenging, immersive, and fun. Python is one of the most popular programming languages used in game development, and it offers many tools and libraries for developing intelligent games.",
+		"img": "https://images.pexels.com/photos/5380839/pexels-photo-5380839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"AI Decision-Making in Game Development"
+		],
+		"createdAt": "2023-05-05T17:31:31.293Z",
+		"updatedAt": "2023-05-05T17:31:32.486Z",
+		"publishedAt": "2023-05-05T17:31:32.484Z",
+		"readTime": 5
+	},
+	{
+		"id": 43,
+		"title": "Multiplayer Networking with Godot: A Practical Guide",
+		"slug": "multiplayer-networking-with-godot-a-practical-guide",
+		"metaDesc": "Godot is a popular open-source game engine that allows game developers to create 2D and 3D games for multiple platforms. Godot has a built-in networking system that enables developers to create multiplayer games that can be played online or on a local network. In this article, we will cover the basics of multiplayer networking with Godot and provide practical examples to help you get started.\n\n",
+		"img": "https://images.pexels.com/photos/6424583/pexels-photo-6424583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Multiplayer Networking with Godot"
+		],
+		"createdAt": "2023-05-05T17:36:40.211Z",
+		"updatedAt": "2023-05-05T17:36:41.360Z",
+		"publishedAt": "2023-05-05T17:36:41.358Z",
+		"readTime": 5
+	},
+	{
+		"id": 44,
+		"title": "Game Physics with Python: A Comprehensive Introduction",
+		"slug": "game-physics-with-python-a-comprehensive-introduction",
+		"metaDesc": "Are you interested in developing your own games with realistic physics? Look no further than Python! Python is a high-level programming language that is easy to learn and perfect for game development. With its extensive library of tools and resources, Python can be used to create complex game physics simulations that will immerse players in your game's world.\n\nIn this comprehensive introduction, we will explore the fundamental concepts of game physics and demonstrate how Python can be used to implement them in your own games.\n\n",
+		"img": "https://images.pexels.com/photos/270623/pexels-photo-270623.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Game Physics with Python"
+		],
+		"createdAt": "2023-05-05T17:47:03.587Z",
+		"updatedAt": "2023-05-05T17:47:05.118Z",
+		"publishedAt": "2023-05-05T17:47:05.115Z",
+		"readTime": 8
+	},
+	{
+		"id": 45,
+		"title": "How to Build a 2D Platformer Game with Pygame",
+		"slug": "how-to-build-a-2-d-platformer-game-with-pygame",
+		"metaDesc": "Are you interested in creating your own 2D platformer game using Pygame? Pygame is a Python library that allows you to create 2D games and multimedia applications. In this tutorial, we will walk you through the process of building a 2D platformer game with Pygame.",
+		"img": "https://images.pexels.com/photos/2764993/pexels-photo-2764993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"2D Platformer Game with Pygame"
+		],
+		"createdAt": "2023-05-05T17:54:58.550Z",
+		"updatedAt": "2023-05-05T17:55:00.056Z",
+		"publishedAt": "2023-05-05T17:55:00.055Z",
+		"readTime": 5
+	},
+	{
+		"id": 46,
+		"title": "Advanced Game Graphics with PyOpenGL",
+		"slug": "advanced-game-graphics-with-py-open-gl",
+		"metaDesc": "If you're interested in developing games with advanced graphics, then you might have come across PyOpenGL. PyOpenGL is a Python library that provides an interface to the OpenGL graphics library. OpenGL is a powerful graphics library used by many game developers to create high-quality, interactive 3D graphics.\n\nIn this article, we'll take a look at how you can use PyOpenGL to create advanced game graphics. We'll cover the basics of PyOpenGL, how to set up a PyOpenGL project, and some tips and tricks for getting the most out of PyOpenGL.\n\n",
+		"img": "https://images.pexels.com/photos/4709289/pexels-photo-4709289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Advanced Game Graphics with PyOpenGL"
+		],
+		"createdAt": "2023-05-05T18:07:43.935Z",
+		"updatedAt": "2023-05-05T18:07:45.357Z",
+		"publishedAt": "2023-05-05T18:07:45.352Z",
+		"readTime": 5
+	},
+	{
+		"id": 47,
+		"title": "Building a TCP Chat Server with Python's Socket Library",
+		"slug": "building-a-tcp-chat-server-with-python-s-socket-library",
+		"metaDesc": "Chat applications are becoming increasingly popular these days. They enable people to communicate with one another in real-time, and they can be used for a variety of purposes, including socializing, business, and education. In this tutorial, we will be building a simple TCP chat server using Python's socket library.\n\n",
+		"img": "https://images.pexels.com/photos/4974907/pexels-photo-4974907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"TCP Chat Server with Python's Socket Library"
+		],
+		"createdAt": "2023-05-05T20:25:16.252Z",
+		"updatedAt": "2023-05-05T20:25:17.619Z",
+		"publishedAt": "2023-05-05T20:25:17.617Z",
+		"readTime": 6
+	},
+	{
+		"id": 48,
+		"title": "Network Packet Analysis with Scapy: A Beginner's Guide",
+		"slug": "network-packet-analysis-with-scapy-a-beginner-s-guide",
+		"metaDesc": "Network packet analysis is a critical skill for anyone interested in networking and security. Understanding how packets move across a network, and how to analyze them, is essential for detecting network anomalies, identifying potential security threats, and troubleshooting network problems. Scapy is an open-source Python library that makes it easy to create, manipulate, and analyze network packets. In this guide, we'll introduce you to Scapy and show you how to use it to analyze network packets.",
+		"img": "https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Network Packet Analysis with Scapy"
+		],
+		"createdAt": "2023-05-05T20:29:40.324Z",
+		"updatedAt": "2023-05-05T20:29:41.399Z",
+		"publishedAt": "2023-05-05T20:29:41.397Z",
+		"readTime": 5
+	},
+	{
+		"id": 49,
+		"title": "Python for Network Engineers: How to Automate Network Tasks",
+		"slug": "python-for-network-engineers-how-to-automate-network-tasks",
+		"metaDesc": "As a network engineer, you are probably aware that managing and configuring networks can be time-consuming and error-prone. But what if there was a way to automate these tasks? Enter Python - a versatile programming language that can help you streamline network operations and increase productivity.\n\nIn this article, we'll explore how Python can be used to automate network tasks, and provide some tips and resources to help you get started.",
+		"img": "https://images.pexels.com/photos/7325498/pexels-photo-7325498.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Python for Network Engineers"
+		],
+		"createdAt": "2023-05-05T20:41:06.897Z",
+		"updatedAt": "2023-05-05T20:41:08.194Z",
+		"publishedAt": "2023-05-05T20:41:08.191Z",
+		"readTime": 5
+	},
+	{
+		"id": 50,
+		"title": "SSH Automation with Paramiko: A Practical Guide",
+		"slug": "ssh-automation-with-paramiko-a-practical-guide",
+		"metaDesc": "Are you tired of manually connecting to remote servers using SSH to run commands or transfer files? Do you want to automate these tasks to save time and improve efficiency? Look no further than Paramiko, a Python module that allows you to automate SSH connections.\n\nIn this guide, we will cover the basics of Paramiko and demonstrate how to use it for SSH automation. We assume that you have some basic knowledge of Python and SSH.",
+		"img": "https://images.pexels.com/photos/4439901/pexels-photo-4439901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"SSH Automation with Paramiko"
+		],
+		"createdAt": "2023-05-05T20:48:39.663Z",
+		"updatedAt": "2023-05-05T20:48:41.414Z",
+		"publishedAt": "2023-05-05T20:48:41.409Z",
+		"readTime": 4
+	},
+	{
+		"id": 51,
+		"title": "How to Build a REST API with Flask-RESTful",
+		"slug": "how-to-build-a-rest-api-with-flask-res-tful",
+		"metaDesc": "If you're looking to build a REST API using Python, Flask-RESTful is a great framework to use. Flask-RESTful is a lightweight extension to Flask that makes it easy to build RESTful APIs. In this article, we will walk you through the steps of building a REST API using Flask-RESTful.",
+		"img": "https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"REST API with Flask-RESTful"
+		],
+		"createdAt": "2023-05-05T21:03:20.162Z",
+		"updatedAt": "2023-05-05T22:57:04.932Z",
+		"publishedAt": "2023-05-05T21:03:21.522Z",
+		"readTime": 5
+	},
+	{
+		"id": 52,
+		"title": "Python Network Programming: Best Practices and Tools",
+		"slug": "python-network-programming-best-practices-and-tools",
+		"metaDesc": "Python is a popular language for network programming due to its simplicity and versatility. It can be used to develop networking applications, automate network tasks, and analyze network traffic. However, like any programming language, there are best practices and tools that can help make your Python network programming experience more efficient and effective. In this article, we'll cover some of the best practices and tools for Python network programming.",
+		"img": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Python Network Programming"
+		],
+		"createdAt": "2023-05-05T21:07:42.155Z",
+		"updatedAt": "2023-05-05T21:07:45.308Z",
+		"publishedAt": "2023-05-05T21:07:45.306Z",
+		"readTime": 5
+	},
+	{
+		"id": 53,
+		"title": "Using Twisted to Build Scalable Network Applications in Python",
+		"slug": "using-twisted-to-build-scalable-network-applications-in-python",
+		"metaDesc": "If you're looking to build network applications in Python that can handle a large number of clients and connections, Twisted is a powerful framework that can help. Twisted is an event-driven networking engine that allows you to build scalable and robust network applications in Python.\n\nIn this article, we'll explore the basics of Twisted and learn how to use it to build scalable network applications. We'll start with an overview of the Twisted framework and then dive into some practical examples of building network applications using Twisted.",
+		"img": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"python netwoking"
+		],
+		"createdAt": "2023-05-05T21:12:53.684Z",
+		"updatedAt": "2023-05-05T21:12:54.980Z",
+		"publishedAt": "2023-05-05T21:12:54.977Z",
+		"readTime": 5
+	},
+	{
+		"id": 54,
+		"title": "Web Scraping with Beautiful Soup: A Beginner's Guide",
+		"slug": "web-scraping-with-beautiful-soup-a-beginner-s-guide",
+		"metaDesc": "Have you ever found yourself spending countless hours copying and pasting data from a website? Web scraping with Beautiful Soup can help you automate this tedious task and save you time. In this beginner's guide, we will walk you through the process of web scraping using Beautiful Soup.",
+		"img": "https://images.pexels.com/photos/1181655/pexels-photo-1181655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Web Scraping with Beautiful Soup"
+		],
+		"createdAt": "2023-05-05T21:47:16.091Z",
+		"updatedAt": "2023-05-05T21:47:17.398Z",
+		"publishedAt": "2023-05-05T21:47:17.396Z",
+		"readTime": 5
+	},
+	{
+		"id": 55,
+		"title": "Scraping Dynamic Websites with Selenium: A Practical Guide",
+		"slug": "scraping-dynamic-websites-with-selenium-a-practical-guide",
+		"metaDesc": "If you've ever tried to scrape data from a dynamic website, you know how difficult it can be. Dynamic websites often rely on JavaScript to load content, which makes it challenging for traditional web scraping tools to extract the data you need. However, with Selenium, you can automate the process of interacting with dynamic websites and extract the information you need.\n\nIn this article, we'll take a beginner-friendly look at how to use Selenium to scrape data from dynamic websites. We'll cover everything from installing Selenium to creating a simple script that extracts data from a dynamic website.",
+		"img": "https://images.pexels.com/photos/1181332/pexels-photo-1181332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Scraping Dynamic Websites"
+		],
+		"createdAt": "2023-05-05T21:59:35.522Z",
+		"updatedAt": "2023-05-05T21:59:36.734Z",
+		"publishedAt": "2023-05-05T21:59:36.732Z",
+		"readTime": 5
+	},
+	{
+		"id": 56,
+		"title": "Advanced Web Scraping Techniques with Scrapy",
+		"slug": "advanced-web-scraping-techniques-with-scrapy",
+		"metaDesc": "Web scraping is the process of automatically extracting data from websites. It has become an essential part of many industries, including research, finance, and e-commerce. While there are many web scraping tools available, Scrapy is one of the most popular and powerful frameworks for web scraping. In this article, we will discuss advanced web scraping techniques with Scrapy.",
+		"img": "https://images.pexels.com/photos/1181330/pexels-photo-1181330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"web scrapping"
+		],
+		"createdAt": "2023-05-05T22:08:16.446Z",
+		"updatedAt": "2023-05-05T22:08:19.880Z",
+		"publishedAt": "2023-05-05T22:08:19.878Z",
+		"readTime": 6
+	},
+	{
+		"id": 57,
+		"title": "How to Build a Web Scraper with Requests and LXML",
+		"slug": "how-to-build-a-web-scraper-with-requests-and-lxml",
+		"metaDesc": "Are you interested in automating the process of collecting data from websites? Web scraping is a popular method to extract information from websites, but it can be intimidating for beginners. Fortunately, building a web scraper with Python's requests and LXML libraries is a straightforward process. In this tutorial, we will walk you through the step-by-step process of building a web scraper with Requests and LXML.",
+		"img": "https://images.pexels.com/photos/113850/pexels-photo-113850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Web Scraper"
+		],
+		"createdAt": "2023-05-05T22:13:56.734Z",
+		"updatedAt": "2023-05-06T01:25:48.723Z",
+		"publishedAt": "2023-05-06T01:25:48.720Z",
+		"readTime": 5
+	},
+	{
+		"id": 58,
+		"title": "Web Scraping and Crawling Ethics: Best Practices and Guidelines",
+		"slug": "web-scraping-and-crawling-ethics-best-practices-and-guidelines",
+		"metaDesc": "Web scraping and crawling are powerful tools used to extract data from websites. However, as with any tool, there are ethical concerns and best practices that should be followed. In this article, we will explore the ethics of web scraping and crawling and provide guidelines for best practices.",
+		"img": "https://images.pexels.com/photos/113850/pexels-photo-113850.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"web scrapping"
+		],
+		"createdAt": "2023-05-05T22:15:41.952Z",
+		"updatedAt": "2023-05-06T01:27:13.053Z",
+		"publishedAt": "2023-05-06T01:27:13.051Z",
+		"readTime": 5
+	},
+	{
+		"id": 59,
+		"title": "Scraping Multiple Pages with Pagination Using Python",
+		"slug": "scraping-multiple-pages-with-pagination-using-python",
+		"metaDesc": "Web scraping is the process of extracting data from websites. It is a valuable technique for many data-driven projects such as web indexing, data mining, and data analysis. In this article, we will learn how to scrape multiple pages with pagination using Python.",
+		"img": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Scraping Multiple Pages"
+		],
+		"createdAt": "2023-05-05T22:20:20.052Z",
+		"updatedAt": "2023-05-06T01:28:42.528Z",
+		"publishedAt": "2023-05-06T01:28:42.523Z",
+		"readTime": 4
+	},
+	{
+		"id": 60,
+		"title": "How to Automate Your Web Scraping Tasks with Python",
+		"slug": "how-to-automate-your-web-scraping-tasks-with-python",
+		"metaDesc": "Web scraping is the process of extracting data from websites. It is an important skill for data analysts, data scientists, and web developers. However, manual web scraping can be a tedious and time-consuming task. This is where Python comes in handy. With Python, you can automate your web scraping tasks and save time. In this article, we will discuss how to automate your web scraping tasks with Python.",
+		"img": "https://images.pexels.com/photos/4439901/pexels-photo-4439901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Automate Your Web Scraping"
+		],
+		"createdAt": "2023-05-05T22:23:24.730Z",
+		"updatedAt": "2023-05-06T01:31:43.785Z",
+		"publishedAt": "2023-05-06T01:31:43.784Z",
+		"readTime": 5
+	},
+	{
+		"id": 61,
+		"title": "Password Cracking with Python: A Comprehensive Guide",
+		"slug": "password-cracking-with-python-a-comprehensive-guide",
+		"metaDesc": "Passwords are used to secure access to various accounts such as email, social media, online banking, and more. However, passwords can be vulnerable to cracking, which means that an attacker can gain unauthorized access to an account by guessing or stealing a password. Password cracking is a serious security issue that can lead to financial loss, identity theft, and more. In this article, we will explore the basics of password cracking using Python.",
+		"img": "https://images.pexels.com/photos/3888149/pexels-photo-3888149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Password Cracking with Python"
+		],
+		"createdAt": "2023-05-05T22:26:46.314Z",
+		"updatedAt": "2023-05-06T01:33:44.463Z",
+		"publishedAt": "2023-05-06T01:33:44.461Z",
+		"readTime": 5
+	},
+	{
+		"id": 62,
+		"title": "Malware Analysis with Python: A Practical Approach",
+		"slug": "malware-analysis-with-python-a-practical-approach",
+		"metaDesc": "With the rise of the internet, the threat of cybercrime has become more prevalent than ever before. One of the most common forms of cybercrime is malware, which is a type of software designed to infiltrate and damage computer systems. Malware can be used to steal personal data, hijack control of a system, or even render it unusable. To combat malware, it's important to understand how it works and how it can be analyzed. In this article, we'll explore malware analysis with Python, a practical and beginner-friendly approach to understanding and combating malware.",
+		"img": "https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Malware Analysis with Python"
+		],
+		"createdAt": "2023-05-05T22:33:56.150Z",
+		"updatedAt": "2023-05-06T01:30:13.439Z",
+		"publishedAt": "2023-05-06T01:30:13.436Z",
+		"readTime": 7
+	},
+	{
+		"id": 63,
+		"title": "Network Traffic Analysis with Python: A Beginner's Guide",
+		"slug": "network-traffic-analysis-with-python-a-beginner-s-guide",
+		"metaDesc": "If you've ever wondered how to analyze network traffic with Python, then this beginner's guide is for you. With Python, it's possible to capture and analyze network packets in real-time, which can help you gain insights into your network's behavior and identify potential security threats. In this article, we'll cover the basics of network traffic analysis with Python, including how to capture and decode packets, as well as some tools and libraries you can use to make the process easier.",
+		"img": "https://images.pexels.com/photos/4709290/pexels-photo-4709290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Network Traffic Analysis with Python"
+		],
+		"createdAt": "2023-05-05T22:37:04.894Z",
+		"updatedAt": "2023-05-06T01:35:52.024Z",
+		"publishedAt": "2023-05-06T01:35:52.023Z",
+		"readTime": 4
+	},
+	{
+		"id": 64,
+		"title": "Automating Your Security Tasks with Python",
+		"slug": "automating-your-security-tasks-with-python",
+		"metaDesc": "In today's digital age, security is a top concern for businesses and individuals alike. With cyberattacks becoming increasingly sophisticated, it's essential to take proactive measures to protect your sensitive information.\n\nOne way to strengthen your security is to automate your security tasks with Python. Python is a versatile programming language that can be used for a variety of security-related tasks, from automating routine security checks to developing complex security solutions.\n\nIn this article, we'll explore some of the ways you can use Python to automate your security tasks, even if you're a beginner.",
+		"img": "https://images.pexels.com/photos/7504837/pexels-photo-7504837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Automating Your Security"
+		],
+		"createdAt": "2023-05-05T22:44:34.159Z",
+		"updatedAt": "2023-05-06T01:37:32.197Z",
+		"publishedAt": "2023-05-06T01:37:32.195Z",
+		"readTime": 5
+	},
+	{
+		"id": 65,
+		"title": "The Top Python Libraries for Cybersecurity",
+		"slug": "the-top-python-libraries-for-cybersecurity",
+		"metaDesc": "Cybersecurity is a growing concern in today's world. With an increasing number of cyber threats, it has become crucial for organizations to secure their networks and systems. Python, being one of the most popular programming languages, has a wide range of libraries that can be used for cybersecurity. In this article, we will discuss the top Python libraries for cybersecurity.",
+		"img": "https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Top Python Libraries for Cybersecurity"
+		],
+		"createdAt": "2023-05-05T22:46:09.388Z",
+		"updatedAt": "2023-05-06T01:39:21.622Z",
+		"publishedAt": "2023-05-06T01:39:21.619Z",
+		"readTime": 4
+	},
+	{
+		"id": 66,
+		"title": "Building a Python-based Security Operations Center (SOC)",
+		"slug": "building-a-python-based-security-operations-center-soc",
+		"metaDesc": "As cybersecurity threats continue to evolve and become more sophisticated, organizations must take a proactive approach to protect their networks and sensitive data. A Security Operations Center (SOC) is a critical component of an effective cybersecurity strategy, providing real-time monitoring, analysis, and response to security incidents. In this article, we'll discuss how to build a Python-based SOC, which can help automate and streamline many of the tasks required to keep your network secure.",
+		"img": "https://images.pexels.com/photos/3966781/pexels-photo-3966781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			" Python-based Security"
+		],
+		"createdAt": "2023-05-05T22:48:44.310Z",
+		"updatedAt": "2023-05-06T01:41:36.361Z",
+		"publishedAt": "2023-05-06T01:41:36.359Z",
+		"readTime": 5
+	},
+	{
+		"id": 67,
+		"title": "Securing Your Python Applications: Best Practices and Tools",
+		"slug": "securing-your-python-applications-best-practices-and-tools",
+		"metaDesc": "Python is one of the most popular programming languages in use today, and is widely used in the development of web applications, scientific computing, and data analysis. However, like any other software application, Python applications are vulnerable to security threats that can put your data and your users' data at risk. In this article, we will discuss best practices and tools that can be used to secure your Python applications.",
+		"img": "https://images.pexels.com/photos/927022/pexels-photo-927022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"Securing Your Python Applications"
+		],
+		"createdAt": "2023-05-05T22:50:44.918Z",
+		"updatedAt": "2023-05-06T01:43:49.587Z",
+		"publishedAt": "2023-05-06T01:43:49.585Z",
+		"readTime": 4
 	}
 ]
