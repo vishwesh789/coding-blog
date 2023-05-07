@@ -98,17 +98,17 @@ const Navbar = () => {
                   Python
                 </Link>
               </li>
-              {/* <li>
+              <li>
                 <Link
-                  href={"/category/health"}
+                  href={"/category/reactjs"}
                   className="navbar-link hover-1"
                   data-nav-toggler
                   ref={navTogglers}
                   onClick={toggleNav}
                 >
-                  Health
+                  Reactjs
                 </Link>
-              </li> */}
+              </li>
               {/* <li>
                 <Link
                   href={"/category/career"}

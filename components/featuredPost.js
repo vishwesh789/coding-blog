@@ -23,6 +23,10 @@ const FeaturedPost = (props) => {
             articles = props.data.python?.item;
             parentPath =props.data.python?.parentPath
           break;  
+          case "reactjs":
+            articles = props.data.react?.item;
+            parentPath =props.data.react?.parentPath
+          break;  
           default:
             articles = props.data.python?.item;
             parentPath =props.data.python?.parentPath

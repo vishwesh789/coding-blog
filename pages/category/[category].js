@@ -3,6 +3,7 @@ import qs from "qs";
 import {
   fetchCategories,
   fetchPython,
+  fetchReact,
   fetchTechnologies,
 } from "../../http";
 import Layout from "../../components/layout";
@@ -94,6 +95,22 @@ export async function getStaticProps(context) {
   const python = await fetchPython(pythonQuery);
 
 
+  const reactQuery = qs.stringify(
+    {
+      populate: {
+        category: true,
+        image: true,
+        author: true,
+      },
+    },
+    {
+      encodeValuesOnly: true,
+    }
+  );
+
+  const react = await fetchReact(reactQuery);
+
+
   
 
   
@@ -114,6 +131,11 @@ export async function getStaticProps(context) {
         item: python.data.data,
         pagination: python.data.meta.pagination,
         parentPath: "python",
+      },
+      react: {
+        item: react.data.data,
+        pagination: react.data.meta.pagination,
+        parentPath: "reactjs",
       },
       
     },
