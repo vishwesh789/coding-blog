@@ -236,7 +236,7 @@ const Reactjs = (props) => {
       <RecentPosts
         randomPosts={randomPosts}
         popularPosts={popularPosts}
-        cat={"react"}
+        cat={"reactjs"}
       />
       <PopularTags />
     </Layout>
