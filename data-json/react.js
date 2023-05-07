@@ -334,5 +334,313 @@ export const reactJson =[
 		],
 		"readTime": "5",
 		"metaDesc": "React Router is a popular routing library for building single-page web applications in React. It provides a declarative way to define routes and navigate between them. One of the core features of React Router is the history object, which enables you to manipulate the browser's history and control navigation programmatically."
+	},
+	{
+		"id": 25,
+		"createdAt": "2023-05-07T05:38:59.056Z",
+		"updatedAt": "2023-05-07T23:30:11.066Z",
+		"publishedAt": "2023-05-07T23:30:11.064Z",
+		"title": "Protected Routes with React Router: How to Add Authentication",
+		"slug": "protected-routes-with-react-router-how-to-add-authentication",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"React"
+		],
+		"readTime": "5",
+		"metaDesc": "As web applications become more complex, it's becoming increasingly important to secure certain parts of the application and provide access only to authorized users. In this tutorial, we'll explore how to add authentication to a React application using React Router.\n\n"
+	},
+	{
+		"id": 26,
+		"createdAt": "2023-05-07T05:42:50.050Z",
+		"updatedAt": "2023-05-07T23:31:57.706Z",
+		"publishedAt": "2023-05-07T23:31:57.704Z",
+		"title": "Using React Router NavLink Component for Active Links",
+		"slug": "using-react-router-nav-link-component-for-active-links",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"React"
+		],
+		"readTime": "5",
+		"metaDesc": "When building a website or application with React, one of the key components you'll need is a navigation menu. And when it comes to navigation, one of the most important features is the ability to indicate which page the user is currently on. This is where the React Router NavLink component comes in.\n\nIn this article, we'll cover how to use the React Router NavLink component to create active links that visually indicate which page the user is currently on. We'll also go over some common use cases and best practices for using NavLink in your React projects."
+	},
+	{
+		"id": 27,
+		"createdAt": "2023-05-07T05:46:30.983Z",
+		"updatedAt": "2023-05-07T23:34:03.527Z",
+		"publishedAt": "2023-05-07T23:34:03.526Z",
+		"title": "React Router vs. Reach Router: Comparison and Best Practices",
+		"slug": "react-router-vs-reach-router-comparison-and-best-practices",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"React"
+		],
+		"readTime": "3",
+		"metaDesc": "React Router and Reach Router are both popular routing libraries for React applications. Routing is a key aspect of any frontend application that requires navigating between different pages or views. In this article, we'll explore the differences between React Router and Reach Router, and provide some best practices for using these libraries in your projects."
+	},
+	{
+		"id": 28,
+		"createdAt": "2023-05-07T06:32:22.286Z",
+		"updatedAt": "2023-05-07T23:49:02.199Z",
+		"publishedAt": "2023-05-07T23:35:30.638Z",
+		"title": "How to Implement Nested Routes with React Router",
+		"slug": "how-to-implement-nested-routes-with-react-router",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"React"
+		],
+		"readTime": "6",
+		"metaDesc": "React Router is a powerful library that allows you to handle routing in your React application with ease. One of the most important features of React Router is the ability to nest routes within other routes. This allows you to create complex applications with multiple pages and sub-pages, all with their own unique URLs. In this tutorial, we will be exploring how to implement nested routes with React Router."
+	},
+	{
+		"id": 29,
+		"createdAt": "2023-05-07T06:39:28.065Z",
+		"updatedAt": "2023-05-07T23:37:16.530Z",
+		"publishedAt": "2023-05-07T23:37:16.529Z",
+		"title": "Dynamic Routing with React Router: How to Handle Dynamic URLs",
+		"slug": "dynamic-routing-with-react-router-how-to-handle-dynamic-ur-ls",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"React"
+		],
+		"readTime": "7",
+		"metaDesc": "If you've ever built a web application that required different views for different URLs, then you already know how important routing is. Routing is the process of determining which view to render based on the URL that the user has entered. In React, routing is made easy with the React Router library.\n\nIn this article, we'll be exploring how to use React Router to handle dynamic URLs. We'll go over what dynamic URLs are, why they're important, and how to use React Router to handle them in your web application. We'll also be providing code examples throughout the article, so you can follow along with ease."
+	},
+	{
+		"id": 30,
+		"createdAt": "2023-05-07T06:43:22.457Z",
+		"updatedAt": "2023-05-07T23:36:56.323Z",
+		"publishedAt": "2023-05-07T23:36:56.321Z",
+		"title": "How to Lazy Load Routes with React Router",
+		"slug": "how-to-lazy-load-routes-with-react-router",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"React"
+		],
+		"readTime": "3",
+		"metaDesc": "React Router is a powerful tool that allows developers to easily handle routing within their React applications. One of its many features is the ability to lazy load routes, which can greatly improve the performance of your application by reducing the initial load time. In this article, we will explore what lazy loading is and how to use it with React Router."
+	},
+	{
+		"id": 31,
+		"createdAt": "2023-05-07T06:49:11.887Z",
+		"updatedAt": "2023-05-07T23:37:39.118Z",
+		"publishedAt": "2023-05-07T23:37:39.116Z",
+		"title": "Using React Router with Redux: Best Practices and Examples",
+		"slug": "using-react-router-with-redux-best-practices-and-examples",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"React"
+		],
+		"readTime": "7",
+		"metaDesc": "React Router and Redux are two of the most popular libraries used in web development. React Router is used to handle client-side routing in React applications, while Redux is used for state management. Combining these two libraries can provide a powerful and flexible way to manage state and routing in your application.\n\nIn this article, we will explore best practices for using React Router with Redux, as well as some examples to help you get started."
+	},
+	{
+		"id": 32,
+		"createdAt": "2023-05-07T14:18:36.211Z",
+		"updatedAt": "2023-05-07T23:38:00.276Z",
+		"publishedAt": "2023-05-07T23:38:00.275Z",
+		"title": "Getting Started with React Native: Installation and Setup",
+		"slug": "getting-started-with-react-native-installation-and-setup",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "3",
+		"metaDesc": "React Native is a popular open-source framework used for building mobile applications using JavaScript and React. It enables developers to build high-performance and native mobile applications for both iOS and Android platforms with ease. In this article, we will guide you through the installation and setup process of React Native."
+	},
+	{
+		"id": 33,
+		"createdAt": "2023-05-07T14:25:47.875Z",
+		"updatedAt": "2023-05-07T23:38:21.125Z",
+		"publishedAt": "2023-05-07T23:38:21.124Z",
+		"title": "React Native Components: Building Blocks for Your App",
+		"slug": "react-native-components-building-blocks-for-your-app",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "6",
+		"metaDesc": "React Native is a popular framework that allows developers to build high-quality mobile apps using JavaScript and React. One of the key benefits of React Native is its component-based architecture, which allows developers to create reusable UI elements that can be easily shared across different parts of an app.\n\nIn this article, we'll take a closer look at React Native components, their role in app development, and how to build them."
+	},
+	{
+		"id": 34,
+		"createdAt": "2023-05-07T14:36:32.373Z",
+		"updatedAt": "2023-05-07T23:38:41.934Z",
+		"publishedAt": "2023-05-07T23:38:41.932Z",
+		"title": "Styling in React Native: Tips and Best Practices",
+		"slug": "styling-in-react-native-tips-and-best-practices",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "5",
+		"metaDesc": "React Native is a popular framework for building mobile applications using JavaScript and React. It provides a powerful set of tools for creating native-like user interfaces that run smoothly on both iOS and Android platforms. One of the essential aspects of building an attractive and functional mobile app is designing its user interface. And, styling plays a crucial role in it.\n\nIn this article, we will discuss some tips and best practices for styling in React Native."
+	},
+	{
+		"id": 35,
+		"createdAt": "2023-05-07T20:48:58.393Z",
+		"updatedAt": "2023-05-07T23:39:04.103Z",
+		"publishedAt": "2023-05-07T23:39:04.100Z",
+		"title": "Styling in React Native: Flexbox",
+		"slug": "styling-in-react-native-flexbox",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "6",
+		"metaDesc": "If you're new to React Native, you might be wondering how to style your components. Styling in React Native works a bit differently than in traditional web development because it uses a technology called Flexbox. In this article, we'll go over the basics of Flexbox and how to use it to style your React Native components.\n\n"
+	},
+	{
+		"id": 36,
+		"createdAt": "2023-05-07T20:54:21.889Z",
+		"updatedAt": "2023-05-07T23:39:28.379Z",
+		"publishedAt": "2023-05-07T23:39:28.378Z",
+		"title": "React Native API: Exploring the Documentation",
+		"slug": "react-native-api-exploring-the-documentation",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "7",
+		"metaDesc": "React Native is a powerful framework that allows you to build mobile applications for both iOS and Android platforms using JavaScript and React. React Native provides a set of APIs to interact with the device's hardware and native functionalities such as camera, location, and more.\n\nThe React Native API is a collection of pre-built components and functions that can be used to build your application. The React Native API is well-documented and easy to use, making it accessible to developers of all levels. In this article, we will explore the React Native API documentation and provide an overview of its various components."
+	},
+	{
+		"id": 37,
+		"createdAt": "2023-05-07T21:01:11.898Z",
+		"updatedAt": "2023-05-07T23:36:37.000Z",
+		"publishedAt": "2023-05-07T23:36:36.998Z",
+		"title": "Debugging React Native Apps: Tips and Tools",
+		"slug": "debugging-react-native-apps-tips-and-tools",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "6",
+		"metaDesc": "React Native is a popular framework for developing mobile applications using JavaScript. Like any other software development project, debugging is an essential part of the process to ensure that the code works correctly and efficiently. In this article, we'll explore some of the most effective tips and tools for debugging React Native apps.\n\n"
+	},
+	{
+		"id": 38,
+		"createdAt": "2023-05-07T21:06:45.262Z",
+		"updatedAt": "2023-05-07T23:36:15.294Z",
+		"publishedAt": "2023-05-07T23:36:15.293Z",
+		"title": "Performance Optimization for React Native: Best Practices",
+		"slug": "performance-optimization-for-react-native-best-practices",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react-native"
+		],
+		"readTime": "5",
+		"metaDesc": "React Native is a powerful and popular framework for building mobile apps using JavaScript. It allows developers to create highly performant and efficient apps that can run on both Android and iOS platforms. However, to achieve this level of performance, it's important to follow certain best practices when developing React Native apps. In this article, we'll discuss some of the most important performance optimization techniques that you can use to improve the performance of your React Native apps."
+	},
+	{
+		"id": 39,
+		"createdAt": "2023-05-07T21:09:26.307Z",
+		"updatedAt": "2023-05-07T23:35:53.083Z",
+		"publishedAt": "2023-05-07T23:35:53.082Z",
+		"title": "React Native vs. Native App Development: Which to Choose?",
+		"slug": "react-native-vs-native-app-development-which-to-choose",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "5",
+		"metaDesc": "When it comes to developing mobile apps, there are two primary approaches to choose from: React Native and Native app development. Both options have their advantages and disadvantages, and which one you choose will depend on your specific needs and goals.\n\nIn this article, we'll explore the differences between React Native and Native app development, and help you determine which one is right for you."
+	},
+	{
+		"id": 40,
+		"createdAt": "2023-05-07T21:14:31.687Z",
+		"updatedAt": "2023-05-07T23:35:10.379Z",
+		"publishedAt": "2023-05-07T23:35:10.377Z",
+		"title": "Creating Cross-Platform Apps with React Native: Tips and Tricks",
+		"slug": "creating-cross-platform-apps-with-react-native-tips-and-tricks",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "4",
+		"metaDesc": "If you're a developer looking to create cross-platform apps, React Native is an excellent framework to consider. React Native allows you to build native apps for both iOS and Android platforms using a single codebase, making the development process faster and more efficient.\n\nIn this article, we'll cover some tips and tricks for creating cross-platform apps with React Native using functional components."
+	},
+	{
+		"id": 41,
+		"createdAt": "2023-05-07T21:18:41.325Z",
+		"updatedAt": "2023-05-07T23:34:26.039Z",
+		"publishedAt": "2023-05-07T23:34:26.038Z",
+		"title": "Using Expo with React Native: Features and Benefits",
+		"slug": "using-expo-with-react-native-features-and-benefits",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "5",
+		"metaDesc": "React Native is a popular framework for building cross-platform mobile applications. It allows developers to write code once and deploy it on both iOS and Android devices. However, building a React Native application from scratch can be time-consuming, especially if you need to set up the development environment and configure the build tools.\n\nThis is where Expo comes in. Expo is a set of tools and services that make it easier to develop, build, and deploy React Native applications. In this article, we will explore the features and benefits of using Expo with React Native."
+	},
+	{
+		"id": 42,
+		"createdAt": "2023-05-07T21:26:00.955Z",
+		"updatedAt": "2023-05-07T23:33:32.519Z",
+		"publishedAt": "2023-05-07T23:33:32.518Z",
+		"title": "Building a React Native App in 2023 from Scratch: A Step-by-Step Guide",
+		"slug": "building-a-react-native-app-in-2023-from-scratch-a-step-by-step-guide",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react native"
+		],
+		"readTime": "6",
+		"metaDesc": "React Native is a popular framework for building cross-platform mobile applications. It allows developers to build mobile apps for both iOS and Android platforms using a single codebase, making it an efficient and cost-effective solution for businesses and developers. In this article, we will guide you through the process of building a React Native app from scratch, step-by-step. We will be using functional components for our code examples, which is a recommended way of writing React Native code in 2023.\n\n"
+	},
+	{
+		"id": 43,
+		"createdAt": "2023-05-07T23:04:39.766Z",
+		"updatedAt": "2023-05-07T23:32:33.156Z",
+		"publishedAt": "2023-05-07T23:32:33.155Z",
+		"title": "Getting Started with React Hooks: Introduction and Basics",
+		"slug": "getting-started-with-react-hooks-introduction-and-basics",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "7",
+		"metaDesc": "If you're a web developer looking to build modern, interactive user interfaces, then you've probably heard of React. React is a popular JavaScript library that allows developers to build reusable UI components that are easy to manage and update. With the introduction of React Hooks, developers can now build functional components that can manage state and lifecycle methods, making React even more powerful and efficient.\n\nIn this article, we will provide an introduction to React Hooks and cover the basics of using them in functional components. We'll assume that you have some knowledge of React and JavaScript, but we'll keep the examples simple and easy to follow for beginners."
+	},
+	{
+		"id": 44,
+		"createdAt": "2023-05-07T23:09:41.753Z",
+		"updatedAt": "2023-05-07T23:31:04.890Z",
+		"publishedAt": "2023-05-07T23:31:04.889Z",
+		"title": "Understanding the useState Hook in React",
+		"slug": "understanding-the-use-state-hook-in-react",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React is a popular JavaScript library used for building user interfaces. React follows a component-based approach where each component has its own state and behavior. To manage the state of a component, React provides a special hook called useState. In this article, we will discuss the useState hook in detail and understand how to use it in a functional component."
+	},
+	{
+		"id": 45,
+		"createdAt": "2023-05-07T23:19:26.358Z",
+		"updatedAt": "2023-05-07T23:29:43.576Z",
+		"publishedAt": "2023-05-07T23:29:43.575Z",
+		"title": "Mastering the useEffect Hook in React",
+		"slug": "mastering-the-use-effect-hook-in-react",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "The useEffect hook is a built-in hook in React that allows you to perform side effects in your functional components. Side effects are any code that modifies something outside of the current function scope, such as fetching data from an API, updating the DOM, or subscribing to events.\n\nThe useEffect hook can be used to replace the lifecycle methods that were previously used in class components, such as componentDidMount, componentDidUpdate, and componentWillUnmount. By using the useEffect hook, you can manage state changes and side effects in your functional components."
+	},
+	{
+		"id": 46,
+		"createdAt": "2023-05-07T23:20:39.390Z",
+		"updatedAt": "2023-05-07T23:29:14.540Z",
+		"publishedAt": "2023-05-07T23:29:14.537Z",
+		"title": "Using the useContext hook in React: Sharing data between components",
+		"slug": "using-the-use-context-hook-in-react-sharing-data-between-components",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React is a popular JavaScript library for building user interfaces. It provides a simple and efficient way to create reusable components that can be easily combined to create complex UIs. One of the key features of React is its ability to manage state within components, making it easy to keep track of changes in the UI and update the underlying data.\n\nHowever, managing state across multiple components can quickly become complex, especially as the number of components grows. In order to simplify the process of sharing data between components, React provides the useContext hook."
 	}
 ]
