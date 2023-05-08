@@ -642,5 +642,201 @@ export const reactJson =[
 		],
 		"readTime": "5",
 		"metaDesc": "React is a popular JavaScript library for building user interfaces. It provides a simple and efficient way to create reusable components that can be easily combined to create complex UIs. One of the key features of React is its ability to manage state within components, making it easy to keep track of changes in the UI and update the underlying data.\n\nHowever, managing state across multiple components can quickly become complex, especially as the number of components grows. In order to simplify the process of sharing data between components, React provides the useContext hook."
+	},
+	{
+		"id": 47,
+		"createdAt": "2023-05-08T00:03:15.169Z",
+		"updatedAt": "2023-05-08T02:09:42.331Z",
+		"publishedAt": "2023-05-08T02:09:42.330Z",
+		"title": "How to Use the useReducer Hook in React",
+		"slug": "how-to-use-the-use-reducer-hook-in-react",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React is a popular JavaScript library that allows developers to build user interfaces in a declarative and efficient way. It provides a simple and intuitive way to manage state using the useState hook. However, for more complex state management scenarios, the useReducer hook is a better choice. In this article, we'll explore how to use the useReducer hook in React.\n"
+	},
+	{
+		"id": 48,
+		"createdAt": "2023-05-08T00:08:09.656Z",
+		"updatedAt": "2023-05-08T02:10:02.727Z",
+		"publishedAt": "2023-05-08T02:10:02.725Z",
+		"title": "Working with useCallback and useMemo Hooks in React",
+		"slug": "working-with-use-callback-and-use-memo-hooks-in-react",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "If you are familiar with React, you probably know that it is a library that allows you to build complex user interfaces by creating small, reusable components. However, as your application grows, you might start to encounter performance issues. Fortunately, React provides two hooks - useCallback and useMemo - that can help you optimize your application.\n\nIn this article, we will explore these two hooks in detail, and see how they can help you improve the performance of your React application."
+	},
+	{
+		"id": 49,
+		"createdAt": "2023-05-08T00:39:33.868Z",
+		"updatedAt": "2023-05-08T02:10:24.352Z",
+		"publishedAt": "2023-05-08T02:10:24.351Z",
+		"title": "How to use the useRef hook in React",
+		"slug": "how-to-use-the-use-ref-hook-in-react",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "4",
+		"metaDesc": "If you're new to React, you might be wondering how to access the DOM elements in your components. One way to do this is by using the useRef hook. In this article, we'll explore what the useRef hook is, why you might want to use it, and how to use it in your React components."
+	},
+	{
+		"id": 50,
+		"createdAt": "2023-05-08T00:42:44.429Z",
+		"updatedAt": "2023-05-08T02:10:46.159Z",
+		"publishedAt": "2023-05-08T02:10:46.157Z",
+		"title": "Debugging React Hooks: Tips and Tricks",
+		"slug": "debugging-react-hooks-tips-and-tricks",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React hooks are a powerful feature that has made it easier to manage state and lifecycle methods in functional components. However, debugging hooks can be tricky, especially for beginners who are just starting with React. In this article, we will go through some tips and tricks to help you debug React hooks effectively."
+	},
+	{
+		"id": 51,
+		"createdAt": "2023-05-08T00:47:59.592Z",
+		"updatedAt": "2023-05-08T02:11:10.118Z",
+		"publishedAt": "2023-05-08T02:11:10.116Z",
+		"title": "Using Custom Hooks in React: Creating Reusable Logic",
+		"slug": "using-custom-hooks-in-react-creating-reusable-logic",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "4",
+		"metaDesc": "If you've been working with React for a while, you may have noticed that some of your components share similar code. This can lead to a lot of repetition, and it can be difficult to maintain as your application grows. One way to solve this problem is by using custom hooks in React.\n\n"
+	},
+	{
+		"id": 52,
+		"createdAt": "2023-05-08T00:50:45.927Z",
+		"updatedAt": "2023-05-08T02:17:18.595Z",
+		"publishedAt": "2023-05-08T02:17:18.594Z",
+		"title": "Best Practices for Using React Hooks in Your App",
+		"slug": "best-practices-for-using-react-hooks-in-your-app",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React Hooks are a powerful feature introduced in React 16.8 that allow you to use state and other React features in functional components. They provide a more concise and intuitive way to write React code, and have become an essential tool for React developers. In this article, we will discuss best practices for using React Hooks in your app, including how to use useState, useEffect, useContext, useCallback, and useMemo."
+	},
+	{
+		"id": 53,
+		"createdAt": "2023-05-08T01:22:52.603Z",
+		"updatedAt": "2023-05-08T02:12:18.523Z",
+		"publishedAt": "2023-05-08T02:12:18.520Z",
+		"title": "Introduction to React Performance Optimization: Why It Matters",
+		"slug": "introduction-to-react-performance-optimization-why-it-matters",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "6",
+		"metaDesc": "React is one of the most popular JavaScript libraries used for building dynamic web applications. It provides a declarative way to create complex UIs by breaking them down into smaller components. However, as your application grows and becomes more complex, you may encounter performance issues that can negatively impact the user experience. In this article, we'll explore why performance optimization is essential in React and how you can improve the performance of your application.\n\n"
+	},
+	{
+		"id": 54,
+		"createdAt": "2023-05-08T01:31:04.629Z",
+		"updatedAt": "2023-05-08T02:12:44.086Z",
+		"publishedAt": "2023-05-08T02:12:44.084Z",
+		"title": "How to Optimize React Rendering Performance: Tips and Best Practices",
+		"slug": "how-to-optimize-react-rendering-performance-tips-and-best-practices",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React is a popular JavaScript library used to build user interfaces. While React is known for its fast rendering speed, it's important to optimize the performance of your React applications to ensure a smooth user experience. In this article, we'll explore some tips and best practices for optimizing React rendering performance.\n\n"
+	},
+	{
+		"id": 55,
+		"createdAt": "2023-05-08T01:37:45.341Z",
+		"updatedAt": "2023-05-08T02:09:20.626Z",
+		"publishedAt": "2023-05-08T02:09:20.624Z",
+		"title": "Using React.memo and React.PureComponent for Optimizing Rendering",
+		"slug": "using-react-memo-and-react-pure-component-for-optimizing-rendering",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "4",
+		"metaDesc": "As web applications grow in complexity, optimizing rendering performance becomes increasingly important. Rendering is the process of updating the user interface when data changes, and it can become a bottleneck when there are large amounts of data or frequent updates. In this article, we'll explore two React features that can help optimize rendering: React.memo and React.PureComponent."
+	},
+	{
+		"id": 56,
+		"createdAt": "2023-05-08T01:41:02.291Z",
+		"updatedAt": "2023-05-08T02:08:57.375Z",
+		"publishedAt": "2023-05-08T02:08:57.373Z",
+		"title": "Lazy Loading Components in React: Techniques and Examples",
+		"slug": "lazy-loading-components-in-react-techniques-and-examples",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React is a popular front-end library for building user interfaces. It is known for its performance, but it can become slow when loading large components. This is where lazy loading comes in. Lazy loading is a technique used to defer the loading of non-critical parts of an application until they are needed. In this article, we will explore the techniques and examples of lazy loading components in React.\n\n"
+	},
+	{
+		"id": 57,
+		"createdAt": "2023-05-08T01:47:53.950Z",
+		"updatedAt": "2023-05-08T02:08:38.975Z",
+		"publishedAt": "2023-05-08T02:08:38.973Z",
+		"title": "Profiling React apps: Tools and techniques for measuring performance",
+		"slug": "profiling-react-apps-tools-and-techniques-for-measuring-performance",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "6",
+		"metaDesc": "React is a popular front-end JavaScript library used for building complex user interfaces. It allows developers to build reusable components that can be used across different parts of an application, resulting in faster development times and easier maintenance. However, as applications grow in complexity, they can start to suffer from performance issues. In this article, we'll look at some of the tools and techniques you can use to profile your React apps and identify performance bottlenecks."
+	},
+	{
+		"id": 58,
+		"createdAt": "2023-05-08T02:01:20.681Z",
+		"updatedAt": "2023-05-08T02:08:17.690Z",
+		"publishedAt": "2023-05-08T02:08:17.689Z",
+		"title": "Code splitting in React: Improving app performance and load time",
+		"slug": "code-splitting-in-react-improving-app-performance-and-load-time",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "4",
+		"metaDesc": "If you've built a React application, you may have experienced issues with performance and load time. One solution to these problems is code splitting, which allows you to split your code into smaller, more manageable chunks that can be loaded on demand. In this article, we'll explore what code splitting is, why it's important, and how you can implement it in your React applications.\n\n"
+	},
+	{
+		"id": 59,
+		"createdAt": "2023-05-08T02:05:08.181Z",
+		"updatedAt": "2023-05-08T02:07:57.639Z",
+		"publishedAt": "2023-05-08T02:07:57.637Z",
+		"title": "Optimizing Server-Side Rendering in React: Tips and Best Practices",
+		"slug": "optimizing-server-side-rendering-in-react-tips-and-best-practices",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "7",
+		"metaDesc": "React is a powerful JavaScript library for building web applications. One of the main benefits of using React is its ability to perform server-side rendering (SSR). SSR allows your React application to render on the server before being sent to the client, which can improve performance and SEO.\n\nHowever, optimizing server-side rendering in React can be a complex task, especially for beginners. In this article, we will explore some tips and best practices to help you optimize server-side rendering in your React application."
+	},
+	{
+		"id": 60,
+		"createdAt": "2023-05-08T02:06:43.779Z",
+		"updatedAt": "2023-05-08T02:07:40.036Z",
+		"publishedAt": "2023-05-08T02:07:40.034Z",
+		"title": "Using Web Workers with React for Better Performance",
+		"slug": "using-web-workers-with-react-for-better-performance",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "4",
+		"metaDesc": "As web applications become more complex and data-intensive, it's essential to keep user interface responsiveness and smoothness as high as possible. One way to achieve that is by offloading resource-intensive tasks to background threads, also known as web workers. In this article, we'll explore how to leverage web workers in React applications to achieve better performance, smoother user experience, and happier users.\n\n"
 	}
 ]
