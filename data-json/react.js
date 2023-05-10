@@ -1108,7 +1108,7 @@ export const reactJson =[
 	{
 		"id": 80,
 		"createdAt": "2023-05-09T02:05:10.493Z",
-		"updatedAt": "2023-05-09T02:05:11.835Z",
+		"updatedAt": "2023-05-09T02:17:12.526Z",
 		"publishedAt": "2023-05-09T02:05:11.833Z",
 		"title": "Migrating REST APIs to GraphQL: Best Practices and Examples",
 		"slug": "migrating-rest-ap-is-to-graph-ql-best-practices-and-examples",
@@ -1132,5 +1132,145 @@ export const reactJson =[
 		],
 		"readTime": "6",
 		"metaDesc": "As GraphQL gains more popularity as an alternative to traditional REST APIs, it’s important to consider security implications when designing and implementing GraphQL APIs. In this article, we will explore some best practices and examples for securing GraphQL APIs."
+	},
+	{
+		"id": 82,
+		"createdAt": "2023-05-10T00:30:54.267Z",
+		"updatedAt": "2023-05-10T00:30:55.933Z",
+		"publishedAt": "2023-05-10T00:30:55.931Z",
+		"title": "Getting Started with Server-Side Rendering in React: Basics and Configuration",
+		"slug": "getting-started-with-server-side-rendering-in-react-basics-and-configuration",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"React"
+		],
+		"readTime": "5",
+		"metaDesc": "Server-side rendering (SSR) is a technique that involves rendering a web page on the server before sending it to the client's browser. It is often used to improve the performance of web applications by reducing the time it takes for the page to load. In this article, we will explore the basics of server-side rendering in React and how to configure it."
+	},
+	{
+		"id": 83,
+		"createdAt": "2023-05-10T00:39:46.748Z",
+		"updatedAt": "2023-05-10T00:39:48.034Z",
+		"publishedAt": "2023-05-10T00:39:48.032Z",
+		"title": "React Server-Side Rendering vs. Client-Side Rendering: Which to Choose?",
+		"slug": "react-server-side-rendering-vs-client-side-rendering-which-to-choose",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"React"
+		],
+		"readTime": "5",
+		"metaDesc": "When building a web application using React, one of the important decisions you have to make is whether to use server-side rendering or client-side rendering. This decision affects the performance, user experience, and search engine optimization of your application. In this article, we'll discuss the differences between server-side rendering and client-side rendering and help you choose the one that's best for your project."
+	},
+	{
+		"id": 84,
+		"createdAt": "2023-05-10T00:45:24.718Z",
+		"updatedAt": "2023-05-10T00:51:53.217Z",
+		"publishedAt": "2023-05-10T00:45:26.067Z",
+		"title": "Using Next.js with React for Server-Side Rendering",
+		"slug": "using-next-js-with-react-for-server-side-rendering",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React is a popular library for building dynamic user interfaces, but it was initially designed to run on the client-side only. However, with the introduction of server-side rendering (SSR), React applications can now render on the server-side as well. This enables better performance, improved SEO, and more accessibility for users with slow internet connections. In this article, we will explore how to use Next.js with React for server-side rendering."
+	},
+	{
+		"id": 85,
+		"createdAt": "2023-05-10T00:51:28.474Z",
+		"updatedAt": "2023-05-10T00:51:31.690Z",
+		"publishedAt": "2023-05-10T00:51:31.688Z",
+		"title": "How to Implement Server-Side Rendering with Express and React",
+		"slug": "how-to-implement-server-side-rendering-with-express-and-react",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "6",
+		"metaDesc": "If you're building a web application using React, you might have heard about server-side rendering (SSR). This technique involves rendering React components on the server and sending HTML to the client instead of sending JavaScript that would be executed on the client-side. SSR has several benefits, including faster load times, better SEO, and improved user experience.\n\nIn this tutorial, we'll learn how to implement server-side rendering with Express and React. We'll create a simple React application and use Express to set up a server that renders the React components on the server. We'll cover the following topics:"
+	},
+	{
+		"id": 86,
+		"createdAt": "2023-05-10T01:00:30.725Z",
+		"updatedAt": "2023-05-10T01:00:49.438Z",
+		"publishedAt": "2023-05-10T01:00:49.436Z",
+		"title": "Optimizing Server-Side Rendering Performance in React: Best Practices",
+		"slug": "optimizing-server-side-rendering-performance-in-react-best-practices",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "4",
+		"metaDesc": "Server-side rendering (SSR) is a technique used to improve the performance of React applications by rendering the initial HTML markup on the server instead of in the browser. This helps to reduce the time it takes for a web page to load, which can greatly improve the user experience. However, there are a few best practices that developers should follow in order to optimize the performance of their server-side rendered React applications. In this article, we will explore some of these best practices and show you how to implement them in your own projects."
+	},
+	{
+		"id": 87,
+		"createdAt": "2023-05-10T01:05:51.947Z",
+		"updatedAt": "2023-05-10T01:05:53.846Z",
+		"publishedAt": "2023-05-10T01:05:53.844Z",
+		"title": "Using Data Fetching Libraries with Server-Side Rendering in React",
+		"slug": "using-data-fetching-libraries-with-server-side-rendering-in-react",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "4",
+		"metaDesc": "When building web applications with React, it's common to fetch data from an API and render it on the client-side. However, when it comes to search engine optimization (SEO) and improving page load times, server-side rendering (SSR) can be a better option. In this article, we will discuss how to use data fetching libraries with server-side rendering in React."
+	},
+	{
+		"id": 88,
+		"createdAt": "2023-05-10T01:09:19.967Z",
+		"updatedAt": "2023-05-10T01:21:04.921Z",
+		"publishedAt": "2023-05-10T01:09:20.992Z",
+		"title": "Caching Server-Side Rendered Pages in React: Techniques and Examples",
+		"slug": "caching-server-side-rendered-pages-in-react-techniques-and-examples",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "Server-side rendering (SSR) has become increasingly popular in React web development, as it can improve the initial load time and search engine optimization (SEO) of a website. However, caching server-side rendered pages is important to further enhance the website's performance and reduce the load on the server. In this article, we will explore some techniques and examples of caching server-side rendered pages in React."
+	},
+	{
+		"id": 89,
+		"createdAt": "2023-05-10T01:18:13.484Z",
+		"updatedAt": "2023-05-10T01:18:14.824Z",
+		"publishedAt": "2023-05-10T01:18:14.822Z",
+		"title": "Using React Helmet for managing head tags in server-side rendering",
+		"slug": "using-react-helmet-for-managing-head-tags-in-server-side-rendering",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "When building a web application, it's essential to ensure that your pages are correctly optimized for search engines and social media sharing. One way to achieve this is by managing the head tags of your pages effectively. The head tags contain important metadata such as the page title, description, keywords, and open graph tags.\n\nIn server-side rendering, managing head tags can be challenging because we need to generate the HTML content on the server-side and send it to the client-side for rendering. React Helmet is a powerful library that can help us manage the head tags in a server-side rendering environment."
+	},
+	{
+		"id": 90,
+		"createdAt": "2023-05-10T01:20:49.915Z",
+		"updatedAt": "2023-05-10T01:20:51.403Z",
+		"publishedAt": "2023-05-10T01:20:51.401Z",
+		"title": "How to Handle Authentication in Server-Side Rendered React Apps",
+		"slug": "how-to-handle-authentication-in-server-side-rendered-react-apps",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "Server-side rendering (SSR) in React is a popular technique used to improve the initial loading time and search engine optimization (SEO) of web applications. When it comes to authentication in server-side rendered React apps, there are a few things to keep in mind to ensure that your app is secure and user-friendly.\n\nIn this article, we'll explore the basics of authentication in server-side rendered React apps and look at some best practices for handling authentication."
+	},
+	{
+		"id": 91,
+		"createdAt": "2023-05-10T01:25:01.303Z",
+		"updatedAt": "2023-05-10T01:25:02.500Z",
+		"publishedAt": "2023-05-10T01:25:02.498Z",
+		"title": "Debugging Server-Side Rendering Issues in React: Tips and Tricks",
+		"slug": "debugging-server-side-rendering-issues-in-react-tips-and-tricks",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "4",
+		"metaDesc": "Server-side rendering (SSR) is a technique used to improve the performance and SEO of a React application. However, implementing SSR can be challenging, and it may lead to various bugs and issues that need to be debugged. In this article, we'll discuss some tips and tricks to debug server-side rendering issues in React, including common mistakes and how to fix them."
 	}
 ]
