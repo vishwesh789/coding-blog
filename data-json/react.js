@@ -1272,5 +1272,131 @@ export const reactJson =[
 		],
 		"readTime": "4",
 		"metaDesc": "Server-side rendering (SSR) is a technique used to improve the performance and SEO of a React application. However, implementing SSR can be challenging, and it may lead to various bugs and issues that need to be debugged. In this article, we'll discuss some tips and tricks to debug server-side rendering issues in React, including common mistakes and how to fix them."
+	},
+	{
+		"id": 92,
+		"createdAt": "2023-05-11T01:20:39.637Z",
+		"updatedAt": "2023-05-11T01:23:35.859Z",
+		"publishedAt": "2023-05-11T01:20:40.836Z",
+		"title": "Introduction to Testing in React: Why It Matters",
+		"slug": "introduction-to-testing-in-react-why-it-matters",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "Testing is an essential part of software development that ensures the quality and reliability of an application. When it comes to React, testing becomes even more critical as React is used for building complex and dynamic user interfaces. In this article, we'll discuss why testing in React matters and how you can get started with testing your React applications."
+	},
+	{
+		"id": 93,
+		"createdAt": "2023-05-11T01:30:11.578Z",
+		"updatedAt": "2023-05-11T01:30:22.605Z",
+		"publishedAt": "2023-05-11T01:30:22.603Z",
+		"title": "Getting Started with React Testing: Tools and Libraries",
+		"slug": "getting-started-with-react-testing-tools-and-libraries",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "6",
+		"metaDesc": "React is a popular JavaScript library used for building user interfaces. When it comes to testing React applications, there are several tools and libraries available to make the process easier and more efficient. In this article, we will explore some of the most commonly used tools and libraries for testing React applications, including Jest, Enzyme, React Testing Library, and Cypress."
+	},
+	{
+		"id": 94,
+		"createdAt": "2023-05-11T01:37:48.710Z",
+		"updatedAt": "2023-05-11T01:37:49.878Z",
+		"publishedAt": "2023-05-11T01:37:49.876Z",
+		"title": "Writing Unit Tests for React Components: Best Practices",
+		"slug": "writing-unit-tests-for-react-components-best-practices",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "7",
+		"metaDesc": "React is a popular library for building modern web applications. One of the core principles of React is to make it easy to create reusable, composable components. Writing unit tests for these components is an essential part of ensuring their quality and reliability.\n\nIn this article, we'll discuss some best practices for writing unit tests for React components. We'll assume you're using functional components for the examples, but these practices apply to class components as well."
+	},
+	{
+		"id": 95,
+		"createdAt": "2023-05-11T01:44:23.477Z",
+		"updatedAt": "2023-05-11T01:44:25.099Z",
+		"publishedAt": "2023-05-11T01:44:25.097Z",
+		"title": "Using Enzyme with React for Component Testing",
+		"slug": "using-enzyme-with-react-for-component-testing",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "6",
+		"metaDesc": "React has become a widely used framework for building complex user interfaces. As with any codebase, testing is an essential part of development to ensure that the application works as expected. Testing React components can be challenging, but Enzyme, a JavaScript testing utility for React, makes it easier to write tests and validate the components' behavior.\n\nIn this article, we will learn how to use Enzyme to test React components. We will focus on functional components for code examples, as they are simpler to understand and require fewer dependencies. By the end of this article, you will have a better understanding of how to write tests for React components and how Enzyme can help you achieve it."
+	},
+	{
+		"id": 96,
+		"createdAt": "2023-05-11T01:49:45.501Z",
+		"updatedAt": "2023-05-11T01:49:46.761Z",
+		"publishedAt": "2023-05-11T01:49:46.759Z",
+		"title": "Snapshot testing in React: How to use Jest for UI testing",
+		"slug": "snapshot-testing-in-react-how-to-use-jest-for-ui-testing",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React is a popular library for building user interfaces, and Jest is a widely used testing framework for JavaScript. In this article, we'll explore how to use Jest for snapshot testing in React, which is a technique for testing UI components by capturing their current state as a snapshot and comparing it against future changes."
+	},
+	{
+		"id": 97,
+		"createdAt": "2023-05-11T02:01:46.253Z",
+		"updatedAt": "2023-05-11T02:01:53.789Z",
+		"publishedAt": "2023-05-11T02:01:53.787Z",
+		"title": "Integration testing in React: Techniques and Best Practices",
+		"slug": "integration-testing-in-react-techniques-and-best-practices",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "6",
+		"metaDesc": "React is a popular JavaScript library that is widely used for building web applications. One of the key benefits of using React is its ability to easily integrate with other libraries and tools. Integration testing is an important part of the software development process that ensures all the different parts of an application work together as intended. In this article, we will explore the techniques and best practices for integration testing in React."
+	},
+	{
+		"id": 98,
+		"createdAt": "2023-05-11T02:08:18.809Z",
+		"updatedAt": "2023-05-11T02:08:20.962Z",
+		"publishedAt": "2023-05-11T02:08:20.958Z",
+		"title": "Mocking in React Testing: Tips and Tricks",
+		"slug": "mocking-in-react-testing-tips-and-tricks",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "4",
+		"metaDesc": "React is a popular JavaScript library used to build web applications. When it comes to testing React applications, mocking plays a vital role in simulating various scenarios and ensuring the correct functionality of the code.\n\nMocking is a technique used to replace real objects or functions with fake objects or functions. In React testing, it is used to simulate API calls, user interactions, and component behavior. In this article, we will discuss some tips and tricks to effectively use mocking in React testing."
+	},
+	{
+		"id": 99,
+		"createdAt": "2023-05-11T02:21:54.063Z",
+		"updatedAt": "2023-05-11T02:21:59.960Z",
+		"publishedAt": "2023-05-11T02:21:59.958Z",
+		"title": "Debugging React Tests: Common Issues and How to Solve Them",
+		"slug": "debugging-react-tests-common-issues-and-how-to-solve-them",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "5",
+		"metaDesc": "React is a popular front-end JavaScript library that is widely used to build complex applications. When building applications with React, it's essential to write tests to ensure that the application works as expected. However, writing tests is only half the battle, as debugging them can be a challenging task. In this article, we'll discuss some common issues that developers face when debugging React tests and provide tips on how to solve them."
+	},
+	{
+		"id": 100,
+		"createdAt": "2023-05-11T02:29:15.124Z",
+		"updatedAt": "2023-05-11T02:29:16.572Z",
+		"publishedAt": "2023-05-11T02:29:16.569Z",
+		"title": "Testing Performance in React: Techniques and Best Practices",
+		"slug": "testing-performance-in-react-techniques-and-best-practices",
+		"img": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"tags": [
+			"react"
+		],
+		"readTime": "7",
+		"metaDesc": "When developing a React application, performance is a critical factor to consider. Poor performance can lead to a bad user experience and even deter users from using your application. As such, it's essential to test the performance of your React components to ensure they're fast and efficient.\n\nIn this article, we'll explore some techniques and best practices for testing performance in React, focusing on functional components."
 	}
 ]
