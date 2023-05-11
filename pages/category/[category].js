@@ -118,6 +118,7 @@ export async function getStaticProps(context) {
   //   console.log(articles.data.data,query);
 
   // Pass data to the page via props
+
   return {
     props: {
       // categories: categories.data.data,
