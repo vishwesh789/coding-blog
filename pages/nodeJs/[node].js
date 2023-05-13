@@ -237,7 +237,7 @@ const NodeJs = (props) => {
       <RecentPosts
         randomPosts={randomPosts}
         popularPosts={popularPosts}
-        cat={"node-js"}
+        cat={"nodeJs"}
       />
       <PopularTags />
     </Layout>
