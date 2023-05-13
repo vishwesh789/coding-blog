@@ -31,7 +31,7 @@ import { serialize } from "next-mdx-remote/serialize";
 import { reactJson } from "../../data-json/react";
 
 const Reactjs = (props) => {
-  // console.log("propsssssssss in technology", props.technology[0].attributes);
+  console.log("propsssssssss in technology", props);
   const {
     content,
     title,

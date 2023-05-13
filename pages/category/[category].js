@@ -2,6 +2,7 @@ import FeaturedPost from "../../components/featuredPost";
 import qs from "qs";
 import {
   fetchCategories,
+  fetchNodeJs,
   fetchPython,
   fetchReact,
   fetchTechnologies,
@@ -110,6 +111,21 @@ export async function getStaticProps(context) {
 
   const react = await fetchReact(reactQuery);
 
+  const nodeQuery = qs.stringify(
+    {
+      populate: {
+        category: true,
+        image: true,
+        author: true,
+      },
+    },
+    {
+      encodeValuesOnly: true,
+    }
+  );
+
+  const node = await fetchNodeJs(nodeQuery);
+
 
   
 
@@ -137,6 +153,11 @@ export async function getStaticProps(context) {
         item: react.data.data,
         pagination: react.data.meta.pagination,
         parentPath: "reactjs",
+      },
+      node: {
+        item: node.data.data,
+        pagination: node.data.meta.pagination,
+        parentPath: "nodeJs",
       },
       
     },

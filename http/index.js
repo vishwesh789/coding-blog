@@ -15,6 +15,8 @@ export const fetchTechnologies = async (query) => await api.get(`/api/technologi
 export const fetchPython = async (query) => await api.get(`/api/pythons?${query}`);
 
 export const fetchReact = async (query) => await api.get(`/api/reactsjs?${query}`);
+export const fetchNodeJs = async (query) => await api.get(`/api/node-js?${query}`);
+
 
 
 

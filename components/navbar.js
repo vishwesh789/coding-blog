@@ -106,20 +106,20 @@ const Navbar = () => {
                   ref={navTogglers}
                   onClick={toggleNav}
                 >
-                  Reactjs
+                  ReactJs
                 </Link>
               </li>
-              {/* <li>
+              <li>
                 <Link
-                  href={"/category/career"}
+                  href={"/category/node-js"}
                   className="navbar-link hover-1"
                   data-nav-toggler
                   ref={navTogglers}
                   onClick={toggleNav}
                 >
-                  Career
+                  Node Js
                 </Link>
-              </li> */}
+              </li>
               {/* <li>
                 <Link
                   href={"/category/technology"}
