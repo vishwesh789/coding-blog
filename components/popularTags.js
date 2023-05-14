@@ -19,7 +19,7 @@ const PopularTags = () => {
           <li>
             <Link
               className="card tag-btn"
-              href={"https://www.codewithgolu.com/category/career/"}
+              href={"https://codewithgolu.com/category/reactjs/"}
             >
               {/* <Image
                 src="/images/tag1.png"
@@ -29,14 +29,14 @@ const PopularTags = () => {
                 alt="Travel"
               /> */}
 
-              <p className="btn-text">Career</p>
+              <p className="btn-text">React Js</p>
             </Link>
           </li>
 
           <li>
             <Link
               className="card tag-btn"
-              href={"https://www.codewithgolu.com/category/finance/"}
+              href={"https://codewithgolu.com/category/python/"}
             >
               {/* <Image
                 src="/images/tag2.png"
@@ -46,14 +46,14 @@ const PopularTags = () => {
                 alt="Culture"
               /> */}
 
-              <p className="btn-text">Finance</p>
+              <p className="btn-text">Python</p>
             </Link>
           </li>
 
           <li>
             <Link
               className="card tag-btn"
-              href={"https://www.codewithgolu.com/category/lifestyle/"}
+              href={"https://codewithgolu.com/category/node-js/"}
             >
               {/* <Image
                 src="/images/tag3.png"
@@ -63,44 +63,13 @@ const PopularTags = () => {
                 alt="Lifestyle"
               /> */}
 
-              <p className="btn-text">Lifestyle</p>
+              <p className="btn-text">Node Js</p>
             </Link>
           </li>
 
-          <li>
-            <Link
-              className="card tag-btn"
-              href={"https://www.codewithgolu.com/category/technology/"}
-            >
-              {/* <Image
-                src="/images/tag4.png"
-                width="32"
-                height="32"
-                loading="lazy"
-                alt="Fashion"
-              /> */}
+          
 
-              <p className="btn-text">Technologies</p>
-            </Link>
-          </li>
-
-          <li>
-            <Link
-              className="card tag-btn"
-              href={"https://www.codewithgolu.com/category/health/"}
-            >
-              {/* <Image
-                src="/images/tag5.png"
-                width="32"
-                height="32"
-                loading="lazy"
-                alt="Food"
-              /> */}
-
-              <p className="btn-text">Health</p>
-            </Link>
-          </li>
-
+          
           {/* <li>
             <button className="card tag-btn">
               <Image
