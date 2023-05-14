@@ -177,7 +177,7 @@ export const nodeJson =[
 		],
 		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 		"createdAt": "2023-05-13T22:02:09.619Z",
-		"updatedAt": "2023-05-13T22:02:10.976Z",
+		"updatedAt": "2023-05-14T02:11:11.095Z",
 		"publishedAt": "2023-05-13T22:02:10.973Z",
 		"readTime": 7
 	},
@@ -418,5 +418,285 @@ export const nodeJson =[
 		"updatedAt": "2023-05-14T02:04:30.762Z",
 		"publishedAt": "2023-05-14T02:04:30.760Z",
 		"readTime": 6
+	},
+	{
+		"id": 31,
+		"title": "Getting Started with Node.js and TypeScript",
+		"slug": "getting-started-with-node-js-and-type-script",
+		"metaDesc": "If you're a JavaScript developer, you might have heard about Node.js and TypeScript. Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine, and TypeScript is a superset of JavaScript that adds optional static typing and other features to the language. In this article, we'll explore how to get started with Node.js and TypeScript and how they work together.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T11:02:28.415Z",
+		"updatedAt": "2023-05-14T11:02:29.672Z",
+		"publishedAt": "2023-05-14T11:02:29.671Z",
+		"readTime": 5
+	},
+	{
+		"id": 32,
+		"title": "10 Best Practices for Building Node.js Applications with TypeScript",
+		"slug": "10-best-practices-for-building-node-js-applications-with-type-script",
+		"metaDesc": "Node.js is a popular platform for building server-side applications, thanks to its efficient, event-driven architecture. And TypeScript is a typed superset of JavaScript that can make your Node.js applications more robust, maintainable, and scalable. By combining the power of Node.js and TypeScript, you can build high-performance, production-ready applications that are easier to develop, test, and deploy.\n\nBut to make the most of TypeScript in your Node.js applications, you need to follow some best practices. In this article, we'll explore the top 10 best practices for building Node.js applications with TypeScript, from setting up your development environment to testing and deployment.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T11:10:27.115Z",
+		"updatedAt": "2023-05-14T11:10:28.435Z",
+		"publishedAt": "2023-05-14T11:10:28.433Z",
+		"readTime": 7
+	},
+	{
+		"id": 33,
+		"title": "How to Use TypeScript with Node.js Express.js",
+		"slug": "how-to-use-type-script-with-node-js-express-js",
+		"metaDesc": "If you're a JavaScript developer, you may have heard of TypeScript, a superset of JavaScript that adds optional static typing and other features. TypeScript has become increasingly popular in recent years, and many developers are using it with Node.js and Express.js to build scalable, maintainable applications.\n\nIn this article, we'll show you how to get started with TypeScript and Node.js Express.js, step-by-step. Whether you're new to TypeScript or just getting started with Node.js Express.js, this article will provide you with the knowledge you need to get up and running quickly.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T11:15:12.188Z",
+		"updatedAt": "2023-05-14T11:15:13.435Z",
+		"publishedAt": "2023-05-14T11:15:13.433Z",
+		"readTime": 4
+	},
+	{
+		"id": 34,
+		"title": "TypeScript vs. JavaScript: Pros and Cons for Node.js Development",
+		"slug": "type-script-vs-java-script-pros-and-cons-for-node-js-development",
+		"metaDesc": "JavaScript has been a popular language among developers for a long time. It has been used for creating web applications, server-side applications, and even mobile applications. But with the advent of TypeScript, developers have a new tool at their disposal. TypeScript is a superset of JavaScript that adds static typing and other features to JavaScript. In this article, we will compare TypeScript and JavaScript for Node.js development and discuss the pros and cons of each language.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T11:18:39.339Z",
+		"updatedAt": "2023-05-14T11:18:40.840Z",
+		"publishedAt": "2023-05-14T11:18:40.834Z",
+		"readTime": 4
+	},
+	{
+		"id": 35,
+		"title": "Debugging Node.js TypeScript Applications with Visual Studio Code",
+		"slug": "debugging-node-js-type-script-applications-with-visual-studio-code",
+		"metaDesc": "Are you developing Node.js applications using TypeScript and facing difficulties in debugging? Debugging is an essential part of any software development process, and it becomes even more critical when working with TypeScript applications. Fortunately, Visual Studio Code provides an excellent debugging experience for Node.js TypeScript applications, making it easier for developers to find and fix bugs in their code.\n\nIn this article, we will explore the steps involved in debugging Node.js TypeScript applications with Visual Studio Code. We will start by discussing the prerequisites for setting up the development environment, followed by a step-by-step guide on how to debug a sample TypeScript application using Visual Studio Code.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T11:23:11.675Z",
+		"updatedAt": "2023-05-14T11:23:12.840Z",
+		"publishedAt": "2023-05-14T11:23:12.837Z",
+		"readTime": 4
+	},
+	{
+		"id": 36,
+		"title": "How to Use Generics in Node.js TypeScript",
+		"slug": "how-to-use-generics-in-node-js-type-script",
+		"metaDesc": "Generics are a powerful feature of TypeScript that allow you to write reusable and type-safe code. If you're working with Node.js and TypeScript, you can take advantage of generics to make your code more flexible and maintainable. In this article, we'll explore how to use generics in Node.js TypeScript and demonstrate some practical examples.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T11:26:43.398Z",
+		"updatedAt": "2023-05-14T11:26:52.085Z",
+		"publishedAt": "2023-05-14T11:26:52.083Z",
+		"readTime": 5
+	},
+	{
+		"id": 37,
+		"title": "Optimizing Node.js TypeScript Performance with Compiler Options",
+		"slug": "optimizing-node-js-type-script-performance-with-compiler-options",
+		"metaDesc": "TypeScript is a typed superset of JavaScript that adds optional static type-checking and other advanced features to JavaScript. TypeScript is widely used in developing large-scale applications in Node.js. Node.js is a popular runtime environment for building scalable, high-performance web applications. However, optimizing Node.js TypeScript performance can be challenging, especially when dealing with large codebases.\n\nIn this article, we will explore some of the compiler options available in TypeScript that can help optimize Node.js TypeScript performance.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T12:28:44.491Z",
+		"updatedAt": "2023-05-14T12:28:45.659Z",
+		"publishedAt": "2023-05-14T12:28:45.657Z",
+		"readTime": 4
+	},
+	{
+		"id": 38,
+		"title": "Building Real-time Applications with Node.js, TypeScript, and Socket.io",
+		"slug": "building-real-time-applications-with-node-js-type-script-and-socket-io",
+		"metaDesc": "In today's world, real-time applications are becoming more and more popular. They allow users to interact with data as it changes, creating a more dynamic and engaging experience. Node.js, TypeScript, and Socket.io are three technologies that can be used to build powerful real-time applications. In this article, we will explore how these technologies can be used together to build real-time applications.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T12:35:56.218Z",
+		"updatedAt": "2023-05-14T12:35:57.453Z",
+		"publishedAt": "2023-05-14T12:35:57.450Z",
+		"readTime": 7
+	},
+	{
+		"id": 39,
+		"title": "Unit Testing Node.js TypeScript Applications with Jest",
+		"slug": "unit-testing-node-js-type-script-applications-with-jest",
+		"metaDesc": "Unit testing is an essential part of software development. It helps ensure that each part of the application works as expected and can be modified without affecting other parts. Node.js and TypeScript are two popular technologies used for building scalable and maintainable applications. Jest is a testing framework that simplifies the process of testing Node.js and TypeScript applications. In this article, we will discuss how to write unit tests for Node.js and TypeScript applications using Jest.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T12:41:11.214Z",
+		"updatedAt": "2023-05-14T12:41:12.338Z",
+		"publishedAt": "2023-05-14T12:41:12.335Z",
+		"readTime": 4
+	},
+	{
+		"id": 40,
+		"title": "How to Use Decorators in Node.js TypeScript",
+		"slug": "how-to-use-decorators-in-node-js-type-script",
+		"metaDesc": "Decorators are a powerful feature in TypeScript that allow you to modify classes, methods, properties, and parameters at runtime. They provide a way to add additional functionality to your code without having to modify the original source code. In this article, we will explore how to use decorators in Node.js TypeScript.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T12:47:41.649Z",
+		"updatedAt": "2023-05-14T12:47:43.141Z",
+		"publishedAt": "2023-05-14T12:47:43.139Z",
+		"readTime": 4
+	},
+	{
+		"id": 41,
+		"title": "How to Build a Server-Side-Rendered React App with Node.js",
+		"slug": "how-to-build-a-server-side-rendered-react-app-with-node-js",
+		"metaDesc": "React has become one of the most popular front-end libraries used to build dynamic and responsive user interfaces. With React, developers can create complex single-page applications (SPAs) that offer a great user experience. However, there are some limitations to SPAs, especially when it comes to search engine optimization (SEO) and initial page loading times. That's where server-side rendering (SSR) comes in.\n\nSSR allows us to render our React components on the server and send the pre-rendered HTML to the client. This approach improves the initial loading time of our app and allows search engines to crawl our pages easily. In this article, we will learn how to build a server-side-rendered React app with Node.js.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T12:58:55.443Z",
+		"updatedAt": "2023-05-14T12:58:56.979Z",
+		"publishedAt": "2023-05-14T12:58:56.977Z",
+		"readTime": 6
+	},
+	{
+		"id": 42,
+		"title": "10 Best Practices for Building Node.js and React Applications",
+		"slug": "10-best-practices-for-building-node-js-and-react-applications",
+		"metaDesc": "Node.js and React are two powerful technologies that, when used together, can create dynamic, scalable web applications. Node.js is a server-side platform built on Google Chrome's JavaScript engine, while React is a front-end library for building user interfaces. When building Node.js and React applications, it is important to follow best practices to ensure the performance, scalability, and maintainability of your code.\n\nIn this article, we will discuss 10 best practices for building Node.js and React applications that will help you create high-quality applications that are easy to maintain and scale.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T13:05:11.163Z",
+		"updatedAt": "2023-05-14T13:05:12.663Z",
+		"publishedAt": "2023-05-14T13:05:12.662Z",
+		"readTime": 4
+	},
+	{
+		"id": 43,
+		"title": "React vs. Angular vs. Vue: Which One to Choose for Node.js Development?",
+		"slug": "react-vs-angular-vs-vue-which-one-to-choose-for-node-js-development",
+		"metaDesc": "If you're planning to build a Node.js application, one of the most important decisions you'll have to make is choosing the right front-end framework. Three of the most popular options are React, Angular, and Vue. In this article, we'll explore the strengths and weaknesses of each framework and help you decide which one is the best fit for your project.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T13:34:04.276Z",
+		"updatedAt": "2023-05-14T13:40:18.933Z",
+		"publishedAt": "2023-05-14T13:34:07.246Z",
+		"readTime": 5
+	},
+	{
+		"id": 44,
+		"title": "Debugging Node.js React Applications with Visual Studio Code",
+		"slug": "debugging-node-js-react-applications-with-visual-studio-code",
+		"metaDesc": "Are you having trouble debugging your Node.js React application? Do you find yourself struggling to identify and fix bugs in your code? If so, you're not alone. Debugging can be a difficult task, but with the right tools and techniques, it can be made much easier. In this article, we'll be discussing how to debug Node.js React applications using Visual Studio Code, one of the most popular integrated development environments (IDEs) available today.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T13:44:50.473Z",
+		"updatedAt": "2023-05-14T13:44:51.636Z",
+		"publishedAt": "2023-05-14T13:44:51.631Z",
+		"readTime": 4
+	},
+	{
+		"id": 45,
+		"title": "How to Use React with Node.js Express.js",
+		"slug": "how-to-use-react-with-node-js-express-js",
+		"metaDesc": "React is a popular front-end JavaScript library that is used for building user interfaces. Node.js is a popular back-end JavaScript runtime that is used for building server-side applications. Express.js is a popular web framework for Node.js. In this article, we will learn how to use React with Node.js and Express.js to build a full-stack web application.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T13:49:46.197Z",
+		"updatedAt": "2023-05-14T13:49:47.998Z",
+		"publishedAt": "2023-05-14T13:49:47.996Z",
+		"readTime": 4
+	},
+	{
+		"id": 46,
+		"title": "Node.js React Server-Side Rendering with Redux",
+		"slug": "node-js-react-server-side-rendering-with-redux",
+		"metaDesc": "If you're building a web application with React and Redux, you may have heard about server-side rendering (SSR). SSR is a technique that allows you to render your React components on the server, instead of the client, which can improve your application's performance, SEO, and accessibility. In this article, we'll explore how to implement SSR in a Node.js environment with React and Redux.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T14:18:19.399Z",
+		"updatedAt": "2023-05-14T14:18:20.724Z",
+		"publishedAt": "2023-05-14T14:18:20.721Z",
+		"readTime": 7
+	},
+	{
+		"id": 47,
+		"title": "Building Real-time Applications with Node.js, React and Socket.io",
+		"slug": "building-real-time-applications-with-node-js-react-and-socket-io",
+		"metaDesc": "Real-time web applications are becoming increasingly popular, with businesses and developers leveraging them to enhance user engagement and experience. In this article, we'll explore how to build real-time applications using Node.js, React, and Socket.io.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T14:22:54.175Z",
+		"updatedAt": "2023-05-14T14:22:55.301Z",
+		"publishedAt": "2023-05-14T14:22:55.298Z",
+		"readTime": 4
+	},
+	{
+		"id": 48,
+		"title": "Unit Testing Node.js React Applications with Jest",
+		"slug": "unit-testing-node-js-react-applications-with-jest",
+		"metaDesc": "If you're a developer, then you know that testing is an essential part of software development. It is a process that helps you to ensure that your code is functioning correctly and as expected. In the Node.js React application development, Jest is one of the most popular testing frameworks. Jest provides a simple and efficient way to write unit tests for your Node.js React application. In this article, we will explore how to use Jest to write unit tests for Node.js React applications.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T14:31:04.709Z",
+		"updatedAt": "2023-05-14T14:31:06.004Z",
+		"publishedAt": "2023-05-14T14:31:06.002Z",
+		"readTime": 3
+	},
+	{
+		"id": 49,
+		"title": "How to Build a PWA with Node.js, React, and Service Worker API",
+		"slug": "how-to-build-a-pwa-with-node-js-react-and-service-worker-api",
+		"metaDesc": "Progressive Web Applications (PWAs) are a type of web application that delivers a native app-like experience to users. They are built using web technologies, but they work offline, load instantly, and can be installed on a user's home screen. In this tutorial, we will learn how to build a PWA using Node.js, React, and the Service Worker API.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T14:44:10.045Z",
+		"updatedAt": "2023-05-14T14:44:11.402Z",
+		"publishedAt": "2023-05-14T14:44:11.400Z",
+		"readTime": 4
+	},
+	{
+		"id": 50,
+		"title": "Optimizing Node.js React Performance for High Traffic",
+		"slug": "optimizing-node-js-react-performance-for-high-traffic",
+		"metaDesc": "As web applications become more complex and traffic increases, it becomes increasingly important to optimize the performance of the backend and frontend of your application. In this article, we will explore some techniques to optimize the performance of a Node.js React application for high traffic.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-14T14:46:29.667Z",
+		"updatedAt": "2023-05-14T14:46:31.284Z",
+		"publishedAt": "2023-05-14T14:46:31.281Z",
+		"readTime": 4
 	}
 ]
