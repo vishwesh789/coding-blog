@@ -698,5 +698,215 @@ export const nodeJson =[
 		"updatedAt": "2023-05-14T14:46:31.284Z",
 		"publishedAt": "2023-05-14T14:46:31.281Z",
 		"readTime": 4
+	},
+	{
+		"id": 51,
+		"title": "Getting Started with Node.js and Docker",
+		"slug": "getting-started-with-node-js-and-docker",
+		"metaDesc": "If you're new to Node.js and Docker, you might be wondering where to start. Fortunately, the process of getting up and running with these two technologies is relatively straightforward, and can be accomplished with just a few simple steps. In this article, we'll walk through the basics of setting up a Node.js project in a Docker container.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T02:27:37.154Z",
+		"updatedAt": "2023-05-16T02:27:38.645Z",
+		"publishedAt": "2023-05-16T02:27:38.642Z",
+		"readTime": 4
+	},
+	{
+		"id": 52,
+		"title": "10 Best Practices for Building Dockerized Node.js Applications",
+		"slug": "10-best-practices-for-building-dockerized-node-js-applications",
+		"metaDesc": "Docker has become the de facto standard for building and deploying applications in modern software development. With its ease of use, flexibility, and portability, it is no surprise that Docker has gained widespread popularity. Node.js, on the other hand, is a popular runtime for building scalable and efficient server-side applications. Combining the power of Docker and Node.js can bring a lot of benefits to your development process. However, building Dockerized Node.js applications requires some best practices to be followed to ensure that your application is secure, scalable, and easy to maintain. In this article, we will discuss ten best practices that you should follow when building Dockerized Node.js applications.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T02:30:51.082Z",
+		"updatedAt": "2023-05-16T02:30:52.465Z",
+		"publishedAt": "2023-05-16T02:30:52.462Z",
+		"readTime": 4
+	},
+	{
+		"id": 53,
+		"title": "How to Dockerize a Node.js Application with Docker Compose",
+		"slug": "how-to-dockerize-a-node-js-application-with-docker-compose",
+		"metaDesc": "Docker is a platform that allows you to run applications in containers. Containers are lightweight, portable, and self-contained, which makes them a great choice for deploying and running applications. Docker Compose is a tool that allows you to define and run multi-container Docker applications. In this article, we will explore how to use Docker Compose to Dockerize a Node.js application.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T02:37:38.859Z",
+		"updatedAt": "2023-05-16T02:37:40.284Z",
+		"publishedAt": "2023-05-16T02:37:40.282Z",
+		"readTime": 4
+	},
+	{
+		"id": 54,
+		"title": "Debugging Node.js Dockerized Applications with Visual Studio Code",
+		"slug": "debugging-node-js-dockerized-applications-with-visual-studio-code",
+		"metaDesc": "When it comes to developing and deploying Node.js applications, Docker is an excellent tool that can make the process a lot smoother. Docker allows you to package your application along with all its dependencies into a single container, which can be easily deployed to any environment. However, debugging Dockerized applications can be a bit tricky, especially for beginners. In this article, we will discuss how to debug Node.js Dockerized applications using Visual Studio Code, one of the most popular code editors.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T02:51:19.999Z",
+		"updatedAt": "2023-05-16T02:51:21.335Z",
+		"publishedAt": "2023-05-16T02:51:21.334Z",
+		"readTime": 4
+	},
+	{
+		"id": 55,
+		"title": "Securing Your Node.js Docker Containers: Best Practices",
+		"slug": "securing-your-node-js-docker-containers-best-practices",
+		"metaDesc": "If you're using Node.js to build and deploy web applications, you may be using Docker to package and run your applications. Docker provides a convenient way to deploy your applications, but it's important to make sure that your containers are secure. In this article, we'll look at some best practices for securing your Node.js Docker containers.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T02:53:06.819Z",
+		"updatedAt": "2023-05-16T02:53:08.007Z",
+		"publishedAt": "2023-05-16T02:53:08.006Z",
+		"readTime": 3
+	},
+	{
+		"id": 56,
+		"title": "Optimizing Node.js Dockerized Application Performance for High Traffic",
+		"slug": "optimizing-node-js-dockerized-application-performance-for-high-traffic",
+		"metaDesc": "Node.js has become a popular choice for building modern web applications because of its efficiency and scalability. However, when it comes to handling high traffic, optimizing the performance of your Node.js application becomes crucial. One way to achieve this is by using Docker to containerize your application. In this article, we will explore how to optimize the performance of a Node.js Dockerized application for high traffic.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T02:56:47.865Z",
+		"updatedAt": "2023-05-16T02:56:49.188Z",
+		"publishedAt": "2023-05-16T02:56:49.186Z",
+		"readTime": 5
+	},
+	{
+		"id": 57,
+		"title": "Deploying Node.js Applications to Kubernetes with Docker",
+		"slug": "deploying-node-js-applications-to-kubernetes-with-docker",
+		"metaDesc": "Are you looking for a scalable and efficient way to deploy your Node.js applications? Look no further than Kubernetes and Docker! In this article, we'll walk you through the basics of deploying a Node.js application to Kubernetes using Docker containers.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T03:02:12.066Z",
+		"updatedAt": "2023-05-16T03:02:13.332Z",
+		"publishedAt": "2023-05-16T03:02:13.329Z",
+		"readTime": 6
+	},
+	{
+		"id": 58,
+		"title": "Unit Testing Dockerized Node.js Applications with Jest",
+		"slug": "unit-testing-dockerized-node-js-applications-with-jest",
+		"metaDesc": "Testing is an essential part of developing any software application, including Node.js applications. In this article, we will explore how to unit test a Dockerized Node.js application using the Jest testing framework.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T03:28:06.520Z",
+		"updatedAt": "2023-05-16T03:28:07.652Z",
+		"publishedAt": "2023-05-16T03:28:07.649Z",
+		"readTime": 5
+	},
+	{
+		"id": 59,
+		"title": "How to Use Environment Variables with Dockerized Node.js Applications",
+		"slug": "how-to-use-environment-variables-with-dockerized-node-js-applications",
+		"metaDesc": "If you're building a Node.js application that will be deployed using Docker, you'll likely need to make use of environment variables to provide configuration details such as database URLs, API keys, and other sensitive data. In this article, we'll explore how to use environment variables with Dockerized Node.js applications.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T03:30:36.345Z",
+		"updatedAt": "2023-05-16T03:30:37.593Z",
+		"publishedAt": "2023-05-16T03:30:37.591Z",
+		"readTime": 3
+	},
+	{
+		"id": 60,
+		"title": "Building a CI/CD Pipeline for Node.js Applications with Docker",
+		"slug": "building-a-ci-cd-pipeline-for-node-js-applications-with-docker",
+		"metaDesc": "If you're a developer, you probably know how important it is to have a good CI/CD pipeline for your code. A good CI/CD pipeline can save you time, increase your productivity, and ensure that your code is always of high quality. In this article, we're going to show you how to build a CI/CD pipeline for Node.js applications using Docker.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T03:33:33.273Z",
+		"updatedAt": "2023-05-16T03:37:48.757Z",
+		"publishedAt": "2023-05-16T03:37:48.755Z",
+		"readTime": 7
+	},
+	{
+		"id": 61,
+		"title": "Getting Started with Node.js and AWS: A Beginner's Guide",
+		"slug": "getting-started-with-node-js-and-aws-a-beginner-s-guide",
+		"metaDesc": "Node.js is a popular JavaScript runtime environment that enables developers to create server-side applications. It is fast, efficient, and easy to learn, making it a popular choice among developers. Amazon Web Services (AWS) is a cloud computing platform that provides a wide range of services that can be used to build and deploy applications. In this beginner's guide, we'll explore how to get started with Node.js and AWS.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T03:41:47.530Z",
+		"updatedAt": "2023-05-16T03:41:56.000Z",
+		"publishedAt": "2023-05-16T03:41:55.998Z",
+		"readTime": 3
+	},
+	{
+		"id": 62,
+		"title": "10 Best Practices for Building Node.js Applications on AWS",
+		"slug": "10-best-practices-for-building-node-js-applications-on-aws",
+		"metaDesc": "Node.js is a powerful and widely used server-side JavaScript runtime environment that allows developers to build scalable and efficient applications. AWS (Amazon Web Services) is a cloud computing platform that provides a wide range of tools and services to help developers build and deploy their applications on the cloud. In this article, we'll discuss the 10 best practices for building Node.js applications on AWS.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T03:44:48.521Z",
+		"updatedAt": "2023-05-16T03:44:49.834Z",
+		"publishedAt": "2023-05-16T03:44:49.832Z",
+		"readTime": 5
+	},
+	{
+		"id": 63,
+		"title": "How to Deploy Node.js Applications to AWS EC2 Instances",
+		"slug": "how-to-deploy-node-js-applications-to-aws-ec-2-instances",
+		"metaDesc": "If you're looking to deploy a Node.js application to AWS EC2 Instances, you're in the right place. AWS EC2 is a scalable and reliable platform that offers a lot of flexibility for running Node.js applications. In this tutorial, we'll take you through the steps required to deploy your Node.js application to AWS EC2 instances.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T03:59:27.138Z",
+		"updatedAt": "2023-05-16T03:59:28.408Z",
+		"publishedAt": "2023-05-16T03:59:28.406Z",
+		"readTime": 5
+	},
+	{
+		"id": 64,
+		"title": "Debugging Node.js AWS Applications with Visual Studio Code",
+		"slug": "debugging-node-js-aws-applications-with-visual-studio-code",
+		"metaDesc": "Debugging Node.js applications on AWS can be a challenging task, especially when dealing with large-scale projects. Fortunately, there are several tools available that can help you streamline your debugging process and make your life easier. In this article, we'll explore how to use Visual Studio Code to debug Node.js applications on AWS.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T04:01:35.265Z",
+		"updatedAt": "2023-05-16T04:01:36.647Z",
+		"publishedAt": "2023-05-16T04:01:36.646Z",
+		"readTime": 5
+	},
+	{
+		"id": 65,
+		"title": "Securing Your Node.js AWS Applications: Best Practices",
+		"slug": "securing-your-node-js-aws-applications-best-practices",
+		"metaDesc": "Node.js has become a popular choice for building applications in recent years due to its simplicity and scalability. Additionally, AWS (Amazon Web Services) provides a reliable and scalable infrastructure for hosting Node.js applications. However, with the rise of cyber attacks, securing your Node.js AWS applications has become crucial. In this article, we will discuss the best practices for securing your Node.js AWS applications.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T04:05:54.468Z",
+		"updatedAt": "2023-05-16T04:05:55.759Z",
+		"publishedAt": "2023-05-16T04:05:55.757Z",
+		"readTime": 5
 	}
 ]
