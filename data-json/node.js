@@ -908,5 +908,159 @@ export const nodeJson =[
 		"updatedAt": "2023-05-16T04:05:55.759Z",
 		"publishedAt": "2023-05-16T04:05:55.757Z",
 		"readTime": 5
+	},
+	{
+		"id": 66,
+		"title": "Optimizing Node.js AWS Application Performance for High Traffic",
+		"slug": "optimizing-node-js-aws-application-performance-for-high-traffic",
+		"metaDesc": "Node.js is a popular runtime environment for building scalable and high-performance applications. When running Node.js applications on the AWS (Amazon Web Services) cloud platform, it is crucial to optimize their performance to handle high traffic efficiently. In this article, we will explore various techniques and best practices for optimizing Node.js AWS application performance to ensure smooth operations even under heavy loads.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T19:43:21.013Z",
+		"updatedAt": "2023-05-16T19:43:22.051Z",
+		"publishedAt": "2023-05-16T19:43:22.046Z",
+		"readTime": 4
+	},
+	{
+		"id": 67,
+		"title": "Deploying Node.js Applications to AWS Lambda",
+		"slug": "deploying-node-js-applications-to-aws-lambda",
+		"metaDesc": "AWS Lambda is a powerful serverless computing platform that allows you to run your applications without provisioning or managing servers. It is a popular choice for deploying Node.js applications due to its scalability, cost-effectiveness, and ease of use. In this article, we will explore the process of deploying Node.js applications to AWS Lambda, step by step.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T19:49:52.556Z",
+		"updatedAt": "2023-05-16T19:49:53.778Z",
+		"publishedAt": "2023-05-16T19:49:53.776Z",
+		"readTime": 4
+	},
+	{
+		"id": 68,
+		"title": "Unit Testing Node.js AWS Applications with Jest",
+		"slug": "unit-testing-node-js-aws-applications-with-jest",
+		"metaDesc": "Testing is an essential part of the software development process, and it plays a crucial role in ensuring the quality and reliability of your applications. When working with Node.js applications deployed on the AWS (Amazon Web Services) platform, unit testing becomes even more important. In this article, we will explore how to perform unit testing for Node.js AWS applications using Jest, a popular testing framework.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T19:53:59.398Z",
+		"updatedAt": "2023-05-16T19:54:00.871Z",
+		"publishedAt": "2023-05-16T19:54:00.870Z",
+		"readTime": 5
+	},
+	{
+		"id": 69,
+		"title": "How to Use Amazon S3 with Node.js",
+		"slug": "how-to-use-amazon-s3-with-node-js",
+		"metaDesc": "Amazon S3 (Simple Storage Service) is a highly scalable and reliable cloud storage service provided by Amazon Web Services (AWS). It allows you to store and retrieve data from anywhere on the web. In this tutorial, we will explore how to use Amazon S3 with Node.js, a popular server-side JavaScript runtime environment.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-16T20:03:40.866Z",
+		"updatedAt": "2023-05-16T20:03:42.450Z",
+		"publishedAt": "2023-05-16T20:03:42.448Z",
+		"readTime": 5
+	},
+	{
+		"id": 70,
+		"title": "Building a Serverless Application with Node.js and AWS",
+		"slug": "building-a-serverless-application-with-node-js-and-aws",
+		"metaDesc": "In recent years, serverless architecture has gained significant popularity due to its scalability, cost-efficiency, and reduced operational overhead. AWS (Amazon Web Services) provides a powerful suite of services that allows developers to build serverless applications easily. In this article, we will explore how to build a serverless application using Node.js and AWS.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-18T20:35:11.776Z",
+		"updatedAt": "2023-05-18T20:35:12.955Z",
+		"publishedAt": "2023-05-18T20:35:12.952Z",
+		"readTime": 6
+	},
+	{
+		"id": 71,
+		"title": "Getting Started with Node.js and Socket.io",
+		"slug": "getting-started-with-node-js-and-socket-io",
+		"metaDesc": "Node.js and Socket.io are powerful technologies that enable real-time communication between a server and clients. Node.js is a runtime environment that allows running JavaScript code on the server-side, while Socket.io is a library that enables bidirectional, event-based communication between the server and the clients. In this article, we will explore the fundamentals of Node.js and Socket.io, and guide you through the process of getting started with building real-time applications.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-18T20:38:51.566Z",
+		"updatedAt": "2023-05-18T20:38:52.697Z",
+		"publishedAt": "2023-05-18T20:38:52.695Z",
+		"readTime": 4
+	},
+	{
+		"id": 72,
+		"title": "10 Best Practices for Building Real-time Node.js Applications with Socket.io",
+		"slug": "10-best-practices-for-building-real-time-node-js-applications-with-socket-io",
+		"metaDesc": "Node.js is a powerful runtime that allows developers to build fast and scalable applications. When it comes to real-time functionality, Socket.io is a popular choice among Node.js developers. Socket.io provides a simple yet powerful way to enable real-time communication between the server and clients. In this article, we will explore the best practices for building real-time Node.js applications with Socket.io. Whether you are a beginner or an experienced developer, following these practices will help you create efficient and reliable real-time applications.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-18T20:44:18.685Z",
+		"updatedAt": "2023-05-18T20:44:20.048Z",
+		"publishedAt": "2023-05-18T20:44:20.046Z",
+		"readTime": 5
+	},
+	{
+		"id": 73,
+		"title": "How to Build a Chat Application with Node.js and Socket.io",
+		"slug": "how-to-build-a-chat-application-with-node-js-and-socket-io",
+		"metaDesc": "In this tutorial, we will guide you through the process of building a chat application using Node.js and Socket.io. This tutorial is aimed at beginners who are interested in learning how to create real-time communication applications. We will cover all the necessary steps from setting up the environment to implementing the chat functionality. So let's get started!",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-18T20:52:42.629Z",
+		"updatedAt": "2023-05-18T20:52:43.768Z",
+		"publishedAt": "2023-05-18T20:52:43.767Z",
+		"readTime": 6
+	},
+	{
+		"id": 74,
+		"title": "Debugging Node.js Socket.io Applications with Visual Studio Code",
+		"slug": "debugging-node-js-socket-io-applications-with-visual-studio-code",
+		"metaDesc": "Debugging is an essential part of the development process, especially when working with real-time applications like Node.js Socket.io applications. Visual Studio Code (VS Code) is a popular and powerful code editor that provides excellent debugging capabilities for Node.js applications. In this article, we will explore how to debug Node.js Socket.io applications effectively using VS Code. Whether you are a beginner or an experienced developer, this guide will help you gain a better understanding of the debugging process.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-18T21:00:55.901Z",
+		"updatedAt": "2023-05-18T21:00:57.206Z",
+		"publishedAt": "2023-05-18T21:00:57.204Z",
+		"readTime": 5
+	},
+	{
+		"id": 75,
+		"title": "Securing Your Node.js Socket.io Application: Best Practices",
+		"slug": "securing-your-node-js-socket-io-application-best-practices",
+		"metaDesc": "In today's interconnected world, building secure applications is of paramount importance. This is especially true for real-time applications built with Node.js and Socket.io. In this article, we will explore best practices for securing your Node.js Socket.io application, providing you with the knowledge and tools necessary to safeguard your application from potential vulnerabilities.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-18T21:05:27.703Z",
+		"updatedAt": "2023-05-18T21:05:29.048Z",
+		"publishedAt": "2023-05-18T21:05:29.046Z",
+		"readTime": 7
+	},
+	{
+		"id": 76,
+		"title": "Optimizing Node.js Socket.io Performance for High Traffic",
+		"slug": "optimizing-node-js-socket-io-performance-for-high-traffic",
+		"metaDesc": "Node.js is a popular runtime environment for building scalable and high-performance applications. Socket.io, a library for real-time communication between clients and servers, is often used in Node.js applications to enable features such as chat, notifications, and real-time updates. However, when dealing with high traffic scenarios, optimizing the performance of Socket.io becomes crucial to ensure a smooth and responsive user experience. In this article, we will explore various techniques and best practices for optimizing Node.js Socket.io performance in high traffic environments.",
+		"tags": [
+			"node js"
+		],
+		"img": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"createdAt": "2023-05-18T21:10:50.730Z",
+		"updatedAt": "2023-05-18T21:10:52.336Z",
+		"publishedAt": "2023-05-18T21:10:52.335Z",
+		"readTime": 6
 	}
 ]
