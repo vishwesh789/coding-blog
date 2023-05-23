@@ -5,7 +5,6 @@ import {
   fetchNodeJs,
   fetchPython,
   fetchReact,
-  fetchTechnologies,
 } from "../../http";
 import Layout from "../../components/layout";
 
@@ -65,21 +64,7 @@ export async function getStaticProps(context) {
 
   
 
-  const technologyQuery = qs.stringify(
-    {
-      populate: {
-        category: true,
-        image: true,
-        author: true,
-      },
-    },
-    {
-      encodeValuesOnly: true,
-    }
-  );
-
-  const technologies = await fetchTechnologies(technologyQuery);
-
+  
   const pythonQuery = qs.stringify(
     {
       populate: {
@@ -139,11 +124,6 @@ export async function getStaticProps(context) {
     props: {
       // categories: categories.data.data,
       
-      technologies: {
-        item: technologies.data.data,
-        pagination: technologies.data.meta.pagination,
-        parentPath: "technologies",
-      },
       python: {
         item: python.data.data,
         pagination: python.data.meta.pagination,

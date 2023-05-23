@@ -15,10 +15,6 @@ const FeaturedPost = (props) => {
   let articles;
   let parentPath
       switch (router.query.category) {
-          case "technology":
-            articles = props.data.technologies?.item;
-            parentPath =props.data.technologies?.parentPath
-          break;  
           case "python":
             articles = props.data.python?.item;
             parentPath =props.data.python?.parentPath

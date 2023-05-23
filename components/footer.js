@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="footer-brand">
               <Link href="#" className="logo">
                 <Image
-                  src="/images/healthWealthLogo.png"
+                  src="/images/codewithgolu.png"
                   width="80"
                   height="25"
                   loading="lazy"

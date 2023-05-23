@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F","\u002Fcategory\u002F[category]","\u002FnodeJs\u002F[node]","\u002Fpython\u002F[python]","\u002Freactjs\u002F[react]","\u002Ftechnologies\u002F[technology]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

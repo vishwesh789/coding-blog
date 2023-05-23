@@ -42,9 +42,9 @@ const Navbar = () => {
         <div className="container">
           <Link href="/" className="logo">
             <Image
-              src="/images/healthWealthLogo.png"
-              width="80"
-              height="25"
+              src="/images/codewithgolu.png"
+              width="100"
+              height="35"
               alt="codewithgolu"
             />
           </Link>
@@ -53,7 +53,7 @@ const Navbar = () => {
             <div className="navbar-top">
               <Link href="/" className="logo">
                 <Image
-                  src="/images/healthWealthLogo.png"
+                  src="/images/codewithgolu.png"
                   width="80"
                   height="25"
                   alt="codewithgolu"
