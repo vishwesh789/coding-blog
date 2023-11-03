@@ -9,11 +9,14 @@
     "start": "next start",
     "lint": "next lint",
     "export": "next build && next export",
-    "exportt":"next build && next export && next-sitemap && next build && next export"
+    "exportt": "next build && next export && next-sitemap && next build && next export"
   },
   "dependencies": {
+    "@mdx-js/loader": "^2.3.0",
     "@mdx-js/react": "^2.3.0",
     "@next/font": "^13.1.5",
+    "@next/mdx": "^13.4.12",
+    "@types/mdx": "^2.0.5",
     "axios": "^1.2.2",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.1",

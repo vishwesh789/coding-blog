@@ -1,7 +1,9 @@
-/** @type {import('next').NextConfig} */
-// const withExportImages = require("next-export-optimize-images");
 
+/** @type {import('next').NextConfig} */
 const nextConfig = {
+  experimental: {
+    mdxRs: true,
+  },
   reactStrictMode: false,
   trailingSlash: true,
   images: {
@@ -9,16 +11,7 @@ const nextConfig = {
     unoptimized:true
   },
   swcMinify: true,
-  
-};
-
-
-module.exports = nextConfig
-
-// module.exports = (_phase, { defaultConfig }) => {
-//   const plugins = [withExportImages];
-//   return plugins.reduce((acc, plugin) => plugin(acc), {
-//     ...defaultConfig,
-//     ...nextConfig,
-//   });
-// };
+}
+ 
+const withMDX = require('@next/mdx')()
+module.exports = withMDX(nextConfig)
