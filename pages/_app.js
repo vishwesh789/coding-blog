@@ -22,7 +22,15 @@ export default function App({ Component, pageProps }) {
 
   return (
     <main>
-     
+      {process.env.NODE_ENV === "production" && (
+        <Script
+          id="adsbygoogle-init"
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3199347075507532"
+        />
+      )}
+
       {process.env.NODE_ENV === "production" && (
         <Script
           strategy="afterInteractive"
